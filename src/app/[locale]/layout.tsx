@@ -6,6 +6,7 @@ import "../globals.css";
 import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
 import { InteractionLayer } from "@/components/layout/InteractionLayer";
+import { LocationMap } from "@/components/layout/LocationMap";
 import { Preloader } from "@/components/layout/Preloader";
 import { SmoothScroll } from "@/components/layout/SmoothScroll";
 import { getContent, getNavigation, getSite } from "@/lib/content";
@@ -108,6 +109,7 @@ export default async function LocaleLayout({ children, params }: LayoutProps<"/[
           }}
         />
         <main id="main">{children}</main>
+        <LocationMap locale={locale} />
         <Footer locale={locale} />
       </body>
     </html>

@@ -43,6 +43,7 @@ const CITY_TR: Record<string, string> = {
   Singapore: "Singapur",
   "New York": "New York",
   Dubai: "Dubai",
+  Antalya: "Antalya",
 };
 
 /** Localised city name for route labels. */

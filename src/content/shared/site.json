@@ -15,7 +15,8 @@
     "address": {
       "building": "Dijitalpark Teknokent",
       "street": "Barbaros Mah. Şebboy Sk. No: 4/1 İç Kapı No: 2",
-      "city": "34634 Ataşehir / İstanbul"
+      "city": "34634 Ataşehir / İstanbul",
+      "gate": "2"
     },
     "mapUrl": "https://maps.google.com/?q=Dijitalpark+Teknokent+Ata%C5%9Fehir+Istanbul",
     "offices": [
@@ -23,27 +24,36 @@
         "city": "Istanbul",
         "type": "hq",
         "lat": 40.99,
-        "lon": 29.12
+        "lon": 29.12,
+        "code": "IST",
+        "tz": "Europe/Istanbul"
       },
       {
         "city": "Antalya",
         "type": "branch",
         "lat": 36.9,
-        "lon": 30.7
+        "lon": 30.7,
+        "code": "AYT",
+        "tz": "Europe/Istanbul"
       },
       {
         "city": "Dubai",
         "type": "branch",
         "lat": 25.2,
-        "lon": 55.27
+        "lon": 55.27,
+        "code": "DXB",
+        "tz": "Asia/Dubai"
       },
       {
         "city": "London",
         "type": "branch",
         "lat": 51.5,
-        "lon": -0.12
+        "lon": -0.12,
+        "code": "LON",
+        "tz": "Europe/London"
       }
-    ]
+    ],
+    "mapEmbed": "https://maps.google.com/maps?q=Dijitalpark%20Teknokent%2C%20Barbaros%20Mah.%20%C5%9Eebboy%20Sk.%20No%3A4%2C%20Ata%C5%9Fehir%2C%20%C4%B0stanbul&z=15&output=embed"
   },
   "social": [
     {

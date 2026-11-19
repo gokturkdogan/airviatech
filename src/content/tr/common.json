@@ -211,5 +211,24 @@
     "title": "Bu rota uçuş haritamızda yok.",
     "text": "Aradığınız sayfa taşınmış ya da hiç var olmamış olabilir.",
     "cta": "Ana sayfaya dön"
+  },
+  "location": {
+    "eyebrow": "Bizi ziyaret edin",
+    "title": "Varış: İstanbul merkez ofis",
+    "text": "Ekibimiz Ataşehir'deki Dijitalpark Teknokent'te; Antalya, Dubai ve Londra'da da irtibat ofislerimiz var. Bir kahveye uğrayın — kapımız her zaman açık.",
+    "arrival": "Varış",
+    "terminal": "Terminal",
+    "gate": "Kapı",
+    "coordinates": "Koordinat",
+    "directions": "Yol tarifi al",
+    "call": "Bizi arayın",
+    "offices": "Ofis ağımız",
+    "hq": "Merkez",
+    "branch": "İrtibat ofisi",
+    "localTime": "Yerel saat",
+    "mapTitle": "Haritada AirviaTech merkez ofisi",
+    "live": "Canlı trafik",
+    "airborne": "havada",
+    "hubLabel": "AirviaTech Merkez · Ataşehir"
   }
 }

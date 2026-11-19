@@ -47,10 +47,11 @@ src/content/
 ```
 src/app/[locale]/        sayfalar (kök layout burada)
 src/app/api/             contact & newsletter uç noktaları (şimdilik sadece log; e-posta/CRM bağlanacak)
-src/components/three/    WebGL: Airliner (kodla modellenmiş uçak), Sky (bulutlar, ana sayfa ve iç sayfa gökyüzü), SupplierNetwork
+src/components/three/    WebGL: Airliner (kodla modellenmiş uçak), Sky (bulutlar), FlightMap (footer üstü 3D uçuş haritası), SupplierNetwork
 src/components/motion/   anime.js bileşenleri: SplitHeading, Reveal, ScrollText, Counter, ParallaxImage, FlightPath
 src/components/…         layout, sections, products, news, contact, ui
 public/images/           eski siteden alınan görseller
+public/data/flightmap.json   3D uçuş haritasının kıyı/sınır verisi (scripts/build-flightmap.py ile üretilir, kaynak: Natural Earth)
 ```
 
 ## Notlar

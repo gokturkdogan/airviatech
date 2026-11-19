@@ -211,5 +211,24 @@
     "title": "This route isn't on our flight map.",
     "text": "The page you're looking for may have moved or never existed.",
     "cta": "Back to home"
+  },
+  "location": {
+    "eyebrow": "Visit us",
+    "title": "Arrivals: Istanbul headquarters",
+    "text": "Our team works from Dijitalpark Teknokent in Ataşehir, with branches in Antalya, Dubai and London. Drop by for a coffee — the gate is always open.",
+    "arrival": "Arrival",
+    "terminal": "Terminal",
+    "gate": "Gate",
+    "coordinates": "Coordinates",
+    "directions": "Get directions",
+    "call": "Call us",
+    "offices": "Our network",
+    "hq": "Headquarters",
+    "branch": "Branch",
+    "localTime": "Local time",
+    "mapTitle": "AirviaTech headquarters on the map",
+    "live": "Live traffic",
+    "airborne": "in the air",
+    "hubLabel": "AirviaTech HQ · Ataşehir"
   }
 }

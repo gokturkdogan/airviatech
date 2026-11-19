@@ -9,3 +9,4 @@ import dynamic from "next/dynamic";
 export const SkyHero = dynamic(() => import("./Sky").then((m) => m.SkyHero), { ssr: false });
 export const SkyBackdrop = dynamic(() => import("./Sky").then((m) => m.SkyBackdrop), { ssr: false });
 export const SupplierNetwork = dynamic(() => import("./SupplierNetwork"), { ssr: false });
+export const FlightMap = dynamic(() => import("./FlightMap"), { ssr: false });

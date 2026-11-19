@@ -17,6 +17,7 @@ export function SplitHeading({
   delay = 0,
   onMount = false,
   by = "words",
+  id,
 }: {
   as?: Tag;
   children: ReactNode;
@@ -24,6 +25,7 @@ export function SplitHeading({
   delay?: number;
   onMount?: boolean;
   by?: "words" | "chars";
+  id?: string;
 }) {
   const ref = useRef<HTMLElement>(null);
 
@@ -61,7 +63,7 @@ export function SplitHeading({
 
   const Tag = as as ElementType;
   return (
-    <Tag ref={ref} className={className} data-split="">
+    <Tag ref={ref} id={id} className={className} data-split="">
       {children}
     </Tag>
   );
