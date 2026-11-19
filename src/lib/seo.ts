@@ -1,7 +1,20 @@
 import type { Metadata } from "next";
 import { localeMeta, localePath, locales, type Locale } from "./i18n";
 
-export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.airviatech.com";
+export const LIVE_URL = "https://www.airviatech.com";
+
+/**
+ * Absolute base URL for canonical, Open Graph and sitemap links.
+ * 1. NEXT_PUBLIC_SITE_URL when set explicitly
+ * 2. on Vercel, the project's production domain (set automatically at build time)
+ * 3. otherwise the live domain
+ */
+export const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL ??
+  (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : LIVE_URL);
+
+/** Only the real domain may be indexed; preview and temporary deploys stay out of search. */
+export const INDEXABLE = SITE_URL === LIVE_URL;
 
 /** Per-page metadata with canonical + hreflang alternates for both languages. */
 export function pageMetadata(

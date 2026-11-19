@@ -10,7 +10,7 @@ import { Preloader } from "@/components/layout/Preloader";
 import { SmoothScroll } from "@/components/layout/SmoothScroll";
 import { getContent, getNavigation, getSite } from "@/lib/content";
 import { hasLocale, locales } from "@/lib/i18n";
-import { SITE_URL } from "@/lib/seo";
+import { INDEXABLE, SITE_URL } from "@/lib/seo";
 
 const kumbh = Kumbh_Sans({ subsets: ["latin", "latin-ext"], variable: "--font-kumbh", display: "swap" });
 const mulish = Mulish({ subsets: ["latin", "latin-ext"], variable: "--font-mulish", display: "swap" });
@@ -37,6 +37,7 @@ export async function generateMetadata({ params }: LayoutProps<"/[locale]">): Pr
     description: meta.description,
     applicationName: meta.siteName,
     formatDetection: { telephone: false },
+    robots: INDEXABLE ? undefined : { index: false, follow: false },
   };
 }
 
