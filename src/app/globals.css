@@ -1,26 +1,397 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/* ─────────────────────────────────────────────────────────────
+   AirviaTech design tokens
+   Brand: coral #ff5a5f + sky #67bad5 on deep navy, from the logo
+   ───────────────────────────────────────────────────────────── */
+@theme {
+  /* Deep indigo-navy, lifted toward the old site's #22253d / #3d436d */
+  --color-ink-950: #181c38;
+  --color-ink-900: #1d2142;
+  --color-ink-850: #22274b;
+  --color-ink-800: #292f58;
+  --color-ink-700: #333a68;
+  --color-navy: #22253d;
+  --color-indigo-600: #3d436d;
+  --color-indigo-500: #4f578d;
+  --color-mist: #a6abcd;
+  --color-fog: #ced6ea;
+  --color-snow: #f4f5fa;
+  --color-coral: #ff5a5f;
+  --color-coral-soft: #ff8a8d;
+  --color-sky: #67bad5;
+  --color-sky-soft: #9fd6e8;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --font-display: var(--font-kumbh), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-mulish), ui-sans-serif, system-ui, sans-serif;
+  /* labels use the text face (corporate), code keeps a real monospace */
+  --font-mono: var(--font-mulish), ui-sans-serif, system-ui, sans-serif;
+  --font-code: var(--font-jetbrains), ui-monospace, monospace;
+  --font-serif: var(--font-instrument), ui-serif, Georgia, serif;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out-circ: cubic-bezier(0.85, 0, 0.15, 1);
+
+  --animate-marquee: marquee var(--marquee-duration, 60s) linear infinite;
+  --animate-marquee-reverse: marquee var(--marquee-duration, 60s) linear infinite reverse;
+  --animate-pulse-ring: pulse-ring 2.4s var(--ease-out-expo) infinite;
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-kenburns: kenburns 28s ease-in-out infinite alternate;
+
+  @keyframes marquee {
+    from { transform: translate3d(0, 0, 0); }
+    to { transform: translate3d(-50%, 0, 0); }
+  }
+  @keyframes pulse-ring {
+    0% { transform: scale(0.6); opacity: 0.9; }
+    100% { transform: scale(2.4); opacity: 0; }
+  }
+  @keyframes kenburns {
+    from { transform: scale(1.02) translate3d(0, 0, 0); }
+    to { transform: scale(1.12) translate3d(-1.5%, -1%, 0); }
+  }
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+:root {
+  color-scheme: dark;
+  --header-h: 76px;
+  /* Hairline figures sit on card surfaces: plate must match the surface */
+  --hairline-plate: var(--color-ink-850);
+  --hairline-hi: #ffffff;
+  --hairline-edge: #9aa0c9;
+  --hairline-mid: #5a629a;
+  --hairline-lo: #333a66;
+  --hairline-stroke: 1;
 }
+
+html {
+  background: var(--color-ink-950);
+  -webkit-tap-highlight-color: transparent;
+}
+
+html.lenis, html.lenis body { height: auto; }
+.lenis.lenis-smooth { scroll-behavior: auto !important; }
+.lenis.lenis-smooth [data-lenis-prevent] { overscroll-behavior: contain; }
+.lenis.lenis-stopped { overflow: hidden; }
+
+body {
+  background: var(--color-ink-950);
+  color: var(--color-fog);
+  font-family: var(--font-sans);
+  font-feature-settings: "ss01", "cv11";
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: clip;
+}
+
+::selection {
+  background: color-mix(in oklab, var(--color-coral) 70%, transparent);
+  color: white;
+}
+
+/* Film grain over everything — subtle texture that kills gradient banding */
+body::after {
+  content: "";
+  position: fixed;
+  inset: -50%;
+  z-index: 100;
+  pointer-events: none;
+  opacity: 0.045;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  color: var(--color-white);
+  letter-spacing: -0.025em;
+  text-wrap: balance;
+}
+p { text-wrap: pretty; }
+
+:focus-visible {
+  outline: 2px solid var(--color-sky);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+/* ── Layout ───────────────────────────────────────────────── */
+@utility container-x {
+  width: 100%;
+  max-width: 1360px;
+  margin-inline: auto;
+  padding-inline: clamp(1.25rem, 4vw, 3rem);
+}
+
+@utility section-y {
+  padding-block: clamp(5rem, 11vw, 9.5rem);
+}
+
+/* ── Type ─────────────────────────────────────────────────── */
+@utility eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--color-sky-soft);
+}
+
+@utility display-xl {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(2.9rem, 7.4vw, 7rem);
+  line-height: 0.98;
+  letter-spacing: -0.035em;
+}
+
+@utility display-lg {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(2.3rem, 4.8vw, 4.25rem);
+  line-height: 1.04;
+  letter-spacing: -0.03em;
+}
+
+@utility display-md {
+  font-family: var(--font-display);
+  font-weight: 650;
+  font-size: clamp(1.85rem, 3.2vw, 2.9rem);
+  line-height: 1.1;
+  letter-spacing: -0.025em;
+}
+
+@utility text-gradient {
+  background: linear-gradient(100deg, var(--color-white) 10%, var(--color-sky-soft) 45%, var(--color-coral-soft) 90%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@utility text-gradient-brand {
+  background: linear-gradient(95deg, var(--color-sky) 0%, #c9a6d9 50%, var(--color-coral) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* ── Surfaces ─────────────────────────────────────────────── */
+@utility surface {
+  background: linear-gradient(180deg, color-mix(in oklab, var(--color-ink-800) 92%, transparent), var(--color-ink-850));
+  border: 1px solid color-mix(in oklab, var(--color-white) 8%, transparent);
+  box-shadow: inset 0 1px 0 rgb(255 255 255 / 0.05);
+}
+
+@utility glass {
+  background: color-mix(in oklab, var(--color-ink-900) 62%, transparent);
+  border: 1px solid color-mix(in oklab, var(--color-white) 9%, transparent);
+  backdrop-filter: blur(18px) saturate(140%);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+}
+
+@utility hairline {
+  border-color: rgb(255 255 255 / 0.08);
+}
+
+@utility mask-fade-x {
+  mask-image: linear-gradient(90deg, transparent, #000 10%, #000 90%, transparent);
+}
+
+@utility mask-fade-b {
+  mask-image: linear-gradient(180deg, #000 60%, transparent);
+}
+
+@utility bg-grid {
+  background-image:
+    linear-gradient(color-mix(in oklab, var(--color-white) 4%, transparent) 1px, transparent 1px),
+    linear-gradient(90deg, color-mix(in oklab, var(--color-white) 4%, transparent) 1px, transparent 1px);
+  background-size: 64px 64px;
+}
+
+/* ── Light tone ──────────────────────────────────────────────
+   The old site's blue-white palette (#ced6ea / #f4f5fa with navy text).
+   Re-maps the colour variables, so any component inside a
+   .tone-light panel flips to light without changes of its own. */
+.tone-light {
+  --color-white: #1b2044;
+  --color-snow: #232850;
+  --color-fog: #3a4170;
+  --color-mist: #5f6795;
+  --color-ink-950: #e6ebf6;
+  --color-ink-900: #edf0f8;
+  --color-ink-850: #ffffff;
+  --color-ink-800: #f6f8fc;
+  --color-ink-700: #dfe5f2;
+  --color-sky: #3b9cc0;
+  --color-sky-soft: #2a7fa0;
+  --color-coral-soft: #e0474c;
+  --hairline-plate: #ffffff;
+  --hairline-hi: #1b2044;
+  --hairline-edge: #6a71a3;
+  --hairline-mid: #a3a9cc;
+  --hairline-lo: #dde2ef;
+  position: relative;
+  color: var(--color-fog);
+  background:
+    radial-gradient(ellipse 70% 60% at 85% 0%, rgb(103 186 213 / 0.22), transparent 70%),
+    radial-gradient(ellipse 60% 50% at 0% 100%, rgb(255 90 95 / 0.08), transparent 70%),
+    linear-gradient(180deg, #eef1f9 0%, #dde4f2 100%);
+}
+.tone-light .surface {
+  background: #ffffff;
+  box-shadow: 0 1px 0 #fff inset, 0 24px 60px -36px rgb(34 37 61 / 0.35);
+}
+.tone-light .text-gradient {
+  background: linear-gradient(100deg, #1b2044 10%, #2a7fa0 55%, #e0474c 95%);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+/* white airline/GDS logos become navy on light panels */
+.tone-light .logo-card { background: #ffffff; box-shadow: 0 10px 30px -22px rgb(34 37 61 / 0.4); }
+.tone-light img.logo-mono { opacity: 0.85; }
+.tone-light .logo-mono { filter: brightness(0) saturate(100%) invert(12%) sepia(30%) saturate(2200%) hue-rotate(215deg); }
+
+/* Force the dark palette back inside a light panel (e.g. code windows) */
+.tone-dark {
+  --color-white: #ffffff;
+  --color-snow: #f4f5fa;
+  --color-fog: #ced6ea;
+  --color-mist: #a6abcd;
+  --color-ink-950: #12152c;
+  --color-ink-900: #1d2142;
+  --color-ink-850: #22274b;
+  --color-ink-800: #292f58;
+  --color-ink-700: #333a68;
+  --color-sky: #67bad5;
+  --color-sky-soft: #9fd6e8;
+  --color-coral-soft: #ff8a8d;
+  color: var(--color-fog);
+}
+
+/* Rounded light panel floating between dark sections */
+@utility panel-light {
+  margin-inline: clamp(0.5rem, 1.5vw, 1.25rem);
+  border-radius: clamp(1.75rem, 3vw, 2.75rem);
+  overflow: clip;
+}
+
+/* Cards: a calm lift on hover (no glowing borders) */
+.spotlight {
+  position: relative;
+  transition: transform 0.6s var(--ease-out-expo), box-shadow 0.6s var(--ease-out-expo), border-color 0.4s;
+}
+.spotlight:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 30px 60px -34px rgb(8 10 30 / 0.55);
+}
+
+/* Boarding pass: real notch cut-outs at the perforation + small motions */
+@media (min-width: 640px) {
+  .boarding-pass {
+    -webkit-mask:
+      radial-gradient(circle 12px at calc(100% - 14rem) 0, transparent 97%, #000) top / 100% 51% no-repeat,
+      radial-gradient(circle 12px at calc(100% - 14rem) 100%, transparent 97%, #000) bottom / 100% 51% no-repeat;
+    mask:
+      radial-gradient(circle 12px at calc(100% - 14rem) 0, transparent 97%, #000) top / 100% 51% no-repeat,
+      radial-gradient(circle 12px at calc(100% - 14rem) 100%, transparent 97%, #000) bottom / 100% 51% no-repeat;
+  }
+}
+.pass-jet { animation: passjet 6s cubic-bezier(0.45, 0, 0.25, 1) infinite; }
+@keyframes passjet {
+  0% { left: 0; opacity: 0; }
+  12% { opacity: 1; }
+  85% { opacity: 1; }
+  100% { left: calc(100% - 20px); opacity: 0; }
+}
+.pass-bar { transform-origin: bottom; animation: passbar 0.7s var(--ease-out-expo) both; animation-delay: inherit; }
+@keyframes passbar { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+
+/* Footer runway */
+.runway-centerline {
+  background: repeating-linear-gradient(90deg, rgb(255 255 255 / 0.45) 0 34px, transparent 34px 70px);
+  animation: centerline 1.6s linear infinite;
+}
+@keyframes centerline { to { background-position: -70px 0; } }
+.runway-light {
+  background: #ffd27a;
+  box-shadow: 0 0 8px 1px rgb(255 184 77 / 0.7);
+  opacity: 0.25;
+  animation: rlight 2.4s ease-out infinite;
+}
+@keyframes rlight {
+  0%, 100% { opacity: 0.25; }
+  8% { opacity: 1; }
+  30% { opacity: 0.3; }
+}
+
+/* Dusk sky behind the 3D clouds */
+.sky-gradient {
+  background:
+    radial-gradient(ellipse 60% 45% at 78% 88%, rgb(255 176 140 / 0.28), transparent 70%),
+    linear-gradient(180deg, #111737 0%, #1d2959 38%, #34508a 70%, #6e8fc4 100%);
+}
+
+/* ── Motion: pre-hydration hidden states (only when JS runs) ── */
+html.js [data-reveal] { opacity: 0; }
+html.js [data-split] { visibility: hidden; }
+html.js [data-split].is-split { visibility: visible; }
+
+@media (prefers-reduced-motion: reduce) {
+  html.js [data-reveal] { opacity: 1 !important; }
+  html.js [data-split] { visibility: visible !important; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Intro overlay: hidden without JS, after the first play, and for reduced motion */
+html:not(.js) .intro-overlay,
+html.intro-seen .intro-overlay { display: none; }
+html.intro-playing { overflow: hidden; }
+@media (prefers-reduced-motion: reduce) { .intro-overlay { display: none; } }
+.intro-overlay [data-wing], .intro-overlay [data-intro-char] { opacity: 0; }
+
+/* Home hero: hidden until its anime.js timeline starts */
+@media (prefers-reduced-motion: no-preference) {
+  html.js .hero-root:not(.is-ready) :is([data-hero-title], [data-hero-fade], [data-hero-rise], [data-hero-pass]) { opacity: 0; }
+}
+@keyframes scrollcue {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(200%); }
+}
+
+/* Split text helpers */
+.split-line { display: block; overflow: clip; padding-bottom: 0.08em; margin-bottom: -0.08em; }
+.split-word { display: inline-block; will-change: transform; }
+
+/* Prose for news articles */
+.prose-air { color: var(--color-fog); font-size: 1.075rem; line-height: 1.8; }
+.prose-air > * + * { margin-top: 1.25em; }
+.prose-air h2 { font-size: 1.75rem; line-height: 1.2; margin-top: 2.2em; font-weight: 650; }
+.prose-air h3 { font-size: 1.25rem; line-height: 1.3; margin-top: 1.8em; font-weight: 650; color: var(--color-snow); }
+.prose-air ul { padding-left: 0; list-style: none; display: grid; gap: 0.6em; }
+.prose-air ul li { position: relative; padding-left: 1.75em; }
+.prose-air ul li::before {
+  content: "";
+  position: absolute;
+  left: 0.25em;
+  top: 0.75em;
+  width: 0.55em;
+  height: 0.55em;
+  border-radius: 2px;
+  transform: rotate(45deg);
+  background: linear-gradient(135deg, var(--color-sky), var(--color-coral));
+}
+.prose-air .lead { font-size: 1.3rem; line-height: 1.65; color: var(--color-white); font-family: var(--font-display); letter-spacing: -0.01em; }
+
+/* Hide scrollbars on horizontal rails */
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }

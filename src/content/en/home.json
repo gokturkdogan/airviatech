@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "title": "One API. All Airlines.",
+    "description": "Revolutionizing flight retail for airlines and agencies. Access {{airlines}} airlines through NDC, GDS, LCC and charter integrations with a single API."
+  },
+  "hero": {
+    "eyebrow": "IATA-certified NDC Aggregator",
+    "titleTop": "One API.",
+    "titleBottom": "All Airlines.",
+    "subtitle": "Revolutionizing flight retail for airlines and agencies. Air retailing is evolving — stay ahead.",
+    "primary": {
+      "label": "Our products",
+      "href": "/products"
+    },
+    "secondary": {
+      "label": "Learn more",
+      "href": "/airviatech"
+    },
+    "channels": [
+      "NDC",
+      "GDS",
+      "LCC",
+      "XML",
+      "Charter",
+      "Block seats"
+    ],
+    "lead": "AirviaTech · IATA-certified NDC aggregator, Istanbul",
+    "pass": {
+      "passTitle": "Boarding pass",
+      "passenger": "Passenger",
+      "passengerValue": "Your travel business",
+      "fromLabel": "From",
+      "toLabel": "To",
+      "toCity": "All airlines",
+      "flight": "Flight",
+      "gate": "Gate",
+      "seat": "Seat",
+      "boarding": "Boarding",
+      "boardingValue": "Now",
+      "classLabel": "Class",
+      "classValue": "IATA ARM"
+    }
+  },
+  "values": [
+    {
+      "title": "Experienced team",
+      "text": "Leaders in airline retailing",
+      "icon": "users"
+    },
+    {
+      "title": "Global network",
+      "text": "Broad airline portfolio",
+      "icon": "globe"
+    },
+    {
+      "title": "High performance",
+      "text": "Scalable infrastructure",
+      "icon": "server"
+    },
+    {
+      "title": "Developer friendly",
+      "text": "Flexible API integrations",
+      "icon": "code"
+    }
+  ],
+  "intro": {
+    "eyebrow": "Aviate – Navigate – Communicate",
+    "title": "Your trusted partner in global travel solutions",
+    "subtitle": "Innovative & powerful online airline ticket software",
+    "text": "Empowering travel agencies and tour operators with a cutting-edge flight ticketing solution, AirviaTech offers seamless access to all airlines and GDS systems in one powerful platform. Accelerate your ticketing processes, enhance operational efficiency, and unlock limitless connectivity with our next-generation technology."
+  },
+  "pillars": [
+    {
+      "kicker": "AirviaTech Gateway",
+      "title": "Access to {{airlines}} airlines",
+      "text": "Effortlessly integrate with major GDS providers like Travelport (Galileo), Sabre and Amadeus, alongside top airlines such as Turkish Airlines, AJet, SunExpress, Pegasus, Air France, Emirates, Singapore Airlines and more.",
+      "tagline": "One connection, endless possibilities",
+      "href": "/products/airviatech-aggregator",
+      "image": "/images/photos/airport-aerial.png"
+    },
+    {
+      "kicker": "AirviaTech",
+      "title": "Flight ticket management",
+      "text": "Unify and streamline all your ticketing operations across GDS terminals and airline agency screens in one easy-to-use system. Gain full visibility, improve efficiency, and stay in control with our advanced management solution.",
+      "tagline": "One platform, total control, maximum efficiency",
+      "href": "/airviatech/features",
+      "image": "/images/photos/departures-board.jpg"
+    },
+    {
+      "kicker": "AirviaTech Next-Generation",
+      "title": "Infrastructure",
+      "text": "Designed with the latest technology, AirviaTech delivers a powerful, flexible and scalable infrastructure to optimize global booking operations effortlessly — next-generation infrastructure for maximum performance.",
+      "tagline": "Powerful, flexible & scalable",
+      "href": "/airviatech/infrastructure",
+      "image": "/images/photos/mission.jpg"
+    }
+  ],
+  "distribution": {
+    "eyebrow": "Next-gen airline distribution",
+    "title": "Flight ticket service providers",
+    "text": "With powerful GDS and direct airline integrations, AirviaTech connects you to a vast network of airlines worldwide through multiple IATA and agency accounts. And we're growing every day, adding new airlines to further expand your reach."
+  },
+  "stats": [
+    "yearsExperience",
+    "annualQueries",
+    "airlineIntegrations"
+  ],
+  "certification": {
+    "eyebrow": "IATA ARM · System Provider for Sellers",
+    "title": "Türkiye's first and only IATA-certified aggregator",
+    "text": "AirviaTech has been officially recognised under IATA's Airline Retailing Maturity (ARM) Index as a System Provider for Sellers — confirming that airline content is delivered through a transparent, neutral and standards-compliant infrastructure.",
+    "cta": {
+      "label": "Read the announcement",
+      "href": "/news/airviatech-becomes-the-first-iata-certified-aggregator-based-in-turkey"
+    },
+    "points": [
+      "Neutral & independent",
+      "NDC-certified with multiple airlines",
+      "Microsoft AI Cloud Partner",
+      "AWS Partner Network"
+    ]
+  },
+  "solutions": {
+    "eyebrow": "Innovative solutions for IATA agencies",
+    "title": "Unlock the future of travel with AirviaTech",
+    "text": "We're redefining the travel industry with cutting-edge technology and a fully integrated system designed to elevate your business. Whether you're an IATA-accredited agency, a corporate travel provider or a B2C platform, we deliver seamless, high-performance solutions tailored to your needs.",
+    "items": [
+      {
+        "title": "B2B travel & online flight booking",
+        "text": "Empower your agency with a robust, scalable booking platform.",
+        "href": "/products/airviatech-agent",
+        "image": "/images/photos/corporate.jpg"
+      },
+      {
+        "title": "B2C travel & online flight booking",
+        "text": "Reach travelers directly with a seamless online booking experience.",
+        "href": "/products/airviatech-e-commerce",
+        "image": "/images/photos/b2c.jpg"
+      },
+      {
+        "title": "Corporate travel & flight booking",
+        "text": "Optimize business travel with smart, efficient management tools.",
+        "href": "/products/airviatech-enterprise",
+        "image": "/images/photos/vision.jpg"
+      },
+      {
+        "title": "Mobile travel & flight booking",
+        "text": "Enable bookings anytime, anywhere with a user-friendly mobile interface.",
+        "href": "/products/airviatech-app",
+        "image": "/images/photos/mobile.jpg"
+      },
+      {
+        "title": "AirviaTech API — powering your travel experience",
+        "text": "Craft unique travel solutions with AirviaTech API. Unlock the ultimate customization potential and create seamless, high-performance booking experiences.",
+        "href": "/products/airviatech-api",
+        "wide": true
+      }
+    ],
+    "motto": "Innovative – Committed – Expert"
+  },
+  "news": {
+    "eyebrow": "AirviaTech Insights",
+    "title": "The latest in aviation & travel tech",
+    "cta": "All news & insights"
+  }
+}

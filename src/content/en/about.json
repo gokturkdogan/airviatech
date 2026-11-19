@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Who We Are",
+    "description": "AirviaTech is shaping the future of travel technology with innovative online flight ticketing software, backed by 20+ years of expertise."
+  },
+  "hero": {
+    "eyebrow": "Innovate – Connect – Empower",
+    "title": "Shaping the future of travel technology",
+    "text": "We are committed to delivering innovative and powerful online flight ticketing software solutions — backed by a highly experienced and specialized team."
+  },
+  "story": {
+    "title": "Twenty years in the cockpit of flight distribution",
+    "paragraphs": [
+      "Backed by a highly experienced and specialized team, we develop the most reliable and cutting-edge software tailored for the travel industry.",
+      "With 20 years of expertise in online flight booking technology, we have successfully integrated {{projects}} systems and process {{dailyQueries}} flight search queries daily. Our continuous evolution ensures the best user experience in the market.",
+      "AirviaTech empowers offline and online travel agencies, travel wholesalers and tour operators with next-generation online booking systems and ticketing solutions.",
+      "Unlock a wider airline network, smarter solutions and seamless connectivity — experience the future of travel today."
+    ],
+    "image": "/images/photos/business-aircraft.jpg"
+  },
+  "stats": ["yearsExperience", "dailyQueries", "launchedProjects"],
+  "connectivity": {
+    "eyebrow": "Transforming travel with smart connectivity",
+    "title": "We don't just follow industry trends — we set them.",
+    "text": "By harnessing cutting-edge travel technology and intelligent data-driven solutions, we are redefining how airlines, travel sellers and businesses connect in the digital age. Our mission is simple: make flight distribution smarter, more efficient and more profitable for everyone."
+  },
+  "distribution": {
+    "eyebrow": "Next-generation travel distribution",
+    "title": "Gone are the days of rigid, outdated airline distribution systems.",
+    "intro": "AirviaTech delivers seamless, direct and intelligent connectivity, empowering travel agencies, tour operators and wholesalers with:",
+    "items": [
+      { "title": "Aviation-grade reliability", "text": "Unmatched system uptime and stability.", "figure": "Padlock" },
+      { "title": "Real-time pricing & dynamic inventory", "text": "Always up-to-date, always accurate.", "figure": "Phosphor" },
+      { "title": "Data-driven insights", "text": "Helping partners optimize revenue and customer engagement.", "figure": "Plot" },
+      { "title": "Scalable & customizable solutions", "text": "Designed to grow with your business.", "figure": "Terrain" }
+    ],
+    "outro": "Unlike traditional models, we bridge the gap between airlines and travel sellers, enabling real-time retailing with maximum flexibility and control."
+  },
+  "why": {
+    "title": "Why AirviaTech?",
+    "items": [
+      { "title": "We simplify complexity", "text": "Our intelligent platform removes barriers between airlines and travel sellers, making flight booking frictionless." },
+      { "title": "We maximize revenue", "text": "By optimizing NDC connectivity, we help airlines boost direct sales and enable travel sellers to unlock new revenue streams." },
+      { "title": "We elevate customer experience", "text": "Personalized fares, ancillaries and flexible post-booking management — all in one place." }
+    ]
+  },
+  "technology": {
+    "eyebrow": "Technology that drives change",
+    "title": "This isn't just another NDC solution.",
+    "intro": "Our proprietary software and advanced APIs ensure seamless integration with airline systems, providing faster response times, better pricing and richer content. With AirviaTech, travel sellers can:",
+    "items": [
+      "Access an expanded airline network with richer fare content.",
+      "Deliver seamless customer experiences with intelligent booking workflows.",
+      "Offer enhanced servicing capabilities with full post-booking support."
+    ],
+    "outro": "It's the future of airline retailing, built on deep industry expertise and next-generation intelligence."
+  },
+  "vision": {
+    "eyebrow": "Our vision",
+    "title": "A smarter, more connected travel industry",
+    "intro": "We believe in a future where travel distribution is seamless, intelligent and personalized. Our vision is to:",
+    "items": [
+      "Empower travel sellers with smarter booking capabilities.",
+      "Help airlines break free from legacy distribution models.",
+      "Enable a borderless, real-time ecosystem for global travel."
+    ],
+    "image": "/images/photos/vision.jpg"
+  },
+  "mission": {
+    "eyebrow": "Our mission",
+    "title": "Driving airline retailing forward",
+    "intro": "We are committed to transforming flight booking into a smarter, more profitable and customer-centric experience. Our solutions go beyond simple NDC connectivity — we provide:",
+    "items": [
+      "A fully integrated booking and ticketing ecosystem.",
+      "Intelligent pricing and data-driven decision-making tools.",
+      "An agile, scalable infrastructure that evolves with the industry."
+    ],
+    "image": "/images/photos/mission.jpg"
+  },
+  "join": {
+    "title": "Join the travel tech revolution",
+    "text": "The future of travel isn't just digital — it's intelligent, agile and connected. At AirviaTech, we're making that future a reality today. Partner with us and experience a new era in flight distribution."
+  }
+}

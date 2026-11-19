@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "Career",
+    "description": "Take your career to new heights with AirviaTech — join a team building the future of travel technology."
+  },
+  "hero": {
+    "eyebrow": "Imagine – Build – Take Off",
+    "title": "Take your career to new heights",
+    "text": "We're building the future of travel technology — and we believe that starts with people."
+  },
+  "intro": {
+    "paragraphs": [
+      "Our team is made up of passionate, skilled and forward-thinking professionals who thrive in a collaborative and innovative environment.",
+      "Whether you're just beginning your journey or looking to take your career to the next level, we offer exciting opportunities for growth, learning and meaningful impact. We're always on the lookout for talented, driven and creative individuals who are ready to shape the future of travel with us.",
+      "At AirviaTech, it's not just a job — it's a journey. You're in the right place to turn ideas into reality, connect the world through technology and launch your career to new heights."
+    ]
+  },
+  "values": [
+    { "title": "Real-world impact", "text": "Your code moves millions of searches and thousands of tickets every day.", "figure": "Branches" },
+    { "title": "Learn & grow", "text": "Work with NDC, GDS and cloud-native systems alongside industry veterans.", "figure": "Elevator" },
+    { "title": "Collaborative culture", "text": "Small, focused teams where every idea gets a runway.", "figure": "Settle" }
+  ],
+  "openings": {
+    "title": "Ready to take off?",
+    "text": "Explore our current openings or send us your CV to be part of something extraordinary.",
+    "applyLabel": "Apply",
+    "items": [
+      { "title": "Senior .NET Developer", "team": "Engineering", "location": "Istanbul", "type": "Full-time" },
+      { "title": "Front-end Developer", "team": "Engineering", "location": "Istanbul", "type": "Full-time" }
+    ],
+    "cta": "Send your CV",
+    "mailSubject": "Job application"
+  }
+}

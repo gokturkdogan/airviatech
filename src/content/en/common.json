@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "siteName": "AirviaTech",
+    "titleTemplate": "%s — AirviaTech",
+    "defaultTitle": "AirviaTech — One API. All Airlines.",
+    "description": "AirviaTech is an IATA-certified NDC aggregator that unifies NDC, GDS, LCC, XML and charter content behind a single API for airlines, OTAs, TMCs and travel agencies."
+  },
+  "nav": {
+    "home": "Home",
+    "items": [
+      {
+        "label": "About",
+        "href": "/about",
+        "children": [
+          {
+            "label": "Who We Are",
+            "href": "/about",
+            "desc": "Our story, vision and mission"
+          },
+          {
+            "label": "Career",
+            "href": "/about/career",
+            "desc": "Build the future of travel tech with us"
+          }
+        ],
+        "feature": {
+          "image": "/images/photos/news-bg.jpg",
+          "title": "Built in Istanbul, flying worldwide",
+          "text": "Twenty years of airline distribution experience behind a modern, independent platform.",
+          "cta": "Get to know us"
+        }
+      },
+      {
+        "label": "AirviaTech",
+        "href": "/airviatech",
+        "children": [
+          {
+            "label": "The Platform",
+            "href": "/airviatech",
+            "desc": "Next-generation flight ticketing system"
+          },
+          {
+            "label": "Features",
+            "href": "/airviatech/features",
+            "desc": "Fares, ancillaries and agency tools"
+          },
+          {
+            "label": "Our Infrastructure",
+            "href": "/airviatech/infrastructure",
+            "desc": "Cloud-native, secure and scalable"
+          }
+        ],
+        "feature": {
+          "image": "/images/photos/departures-board.jpg",
+          "title": "Every airline, one screen",
+          "text": "Search, book and service GDS, NDC and LCC content from a single platform.",
+          "cta": "Explore the platform"
+        }
+      },
+      {
+        "label": "Products",
+        "href": "/products",
+        "children": "products",
+        "feature": {
+          "image": "/images/photos/airport-aerial.png",
+          "title": "One API. All airlines.",
+          "text": "Seven products for agencies, OTAs, corporates and charter operators.",
+          "cta": "See all products"
+        }
+      },
+      {
+        "label": "Suppliers",
+        "href": "/suppliers"
+      },
+      {
+        "label": "News & Insights",
+        "href": "/news"
+      }
+    ],
+    "contact": "Contact",
+    "cta": "Talk to us",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "allProducts": "All products"
+  },
+  "ui": {
+    "readMore": "Read more",
+    "viewDetails": "View details",
+    "learnMore": "Learn more",
+    "explore": "Explore",
+    "discover": "Discover",
+    "backToNews": "Back to News & Insights",
+    "backToProducts": "All products",
+    "relatedPosts": "Keep reading",
+    "featured": "Featured",
+    "published": "Published",
+    "minRead": "min read",
+    "scroll": "Scroll",
+    "comingSoon": "Coming soon",
+    "skipToContent": "Skip to content",
+    "nextProduct": "Next product",
+    "otherProducts": "Other products",
+    "step": "Step"
+  },
+  "stats": {
+    "yearsExperience": "Years of experience",
+    "annualQueries": "Average queries per year",
+    "airlineIntegrations": "Airline integrations",
+    "dailyQueries": "Daily flight search queries",
+    "launchedProjects": "Launched projects",
+    "airlineReach": "Airlines reachable",
+    "dailyTickets": "Tickets per day, per agency",
+    "uptime": "Platform availability",
+    "units": {
+      "yr": "Yr."
+    }
+  },
+  "cta": {
+    "eyebrow": "Connect – Collaborate – Grow",
+    "title": "Ready to connect to every airline through one API?",
+    "text": "Tell us about your business and our team will show you how AirviaTech fits into your distribution stack.",
+    "primary": "Contact us",
+    "secondary": "Explore products"
+  },
+  "newsletter": {
+    "title": "Keep updated & don't miss anything!",
+    "text": "Get exclusive updates, industry news and AirviaTech innovations straight to your inbox.",
+    "placeholder": "Your email address",
+    "button": "Subscribe",
+    "sending": "Please wait…",
+    "success": "Thank you! You're on the list.",
+    "error": "Please enter a valid email address."
+  },
+  "footer": {
+    "tagline": "Your trusted partner in global travel solutions.",
+    "productsTitle": "Products",
+    "pagesTitle": "Pages",
+    "companyTitle": "Company",
+    "pages": [
+      {
+        "label": "AirviaTech",
+        "href": "/airviatech"
+      },
+      {
+        "label": "Features",
+        "href": "/airviatech/features"
+      },
+      {
+        "label": "Infrastructure",
+        "href": "/airviatech/infrastructure"
+      },
+      {
+        "label": "Products",
+        "href": "/products"
+      },
+      {
+        "label": "Suppliers",
+        "href": "/suppliers"
+      }
+    ],
+    "company": [
+      {
+        "label": "Who We Are",
+        "href": "/about"
+      },
+      {
+        "label": "Career",
+        "href": "/about/career"
+      },
+      {
+        "label": "News & Insights",
+        "href": "/news"
+      },
+      {
+        "label": "Contact Us",
+        "href": "/contact"
+      }
+    ],
+    "visitUs": "Visit us",
+    "phoneUs": "Phone us",
+    "emailUs": "Email us",
+    "hq": "Headquarters",
+    "branches": "Branches",
+    "hours": "Monday – Friday: 9am to 6pm",
+    "rights": "All rights reserved.",
+    "backToTop": "Back to top",
+    "certified": "Certified & trusted",
+    "board": {
+      "title": "Departures",
+      "subtitle": "Where would you like to go next?",
+      "flight": "Flight",
+      "destination": "Destination",
+      "gate": "Gate",
+      "time": "Time",
+      "status": "Status",
+      "local": "Istanbul local time",
+      "statuses": [
+        "On time",
+        "Boarding",
+        "Now open",
+        "On time",
+        "Boarding",
+        "Final call"
+      ],
+      "runway": "Cleared for take-off"
+    }
+  },
+  "notFound": {
+    "code": "404",
+    "title": "This route isn't on our flight map.",
+    "text": "The page you're looking for may have moved or never existed.",
+    "cta": "Back to home"
+  }
+}

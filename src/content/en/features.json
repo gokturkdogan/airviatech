@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Features",
+    "description": "Unparalleled flexibility and convenience in airline ticket sales: multi-GDS search, every fare type, ancillaries and powerful tools for agencies and sub-agencies."
+  },
+  "hero": {
+    "eyebrow": "Aviate – Navigate – Communicate",
+    "title": "Unparalleled flexibility and convenience in airline ticket sales",
+    "text": "Empower your agency with a cutting-edge air ticketing system that seamlessly integrates with multiple GDSs and direct airline connections. With access to {{airlines}} airlines across multiple IATA and agency accounts, you get the fastest, most efficient way to secure the best flight options for your customers worldwide."
+  },
+  "advanced": {
+    "eyebrow": "Power – Precision – Profit",
+    "title": "Advanced features to elevate your business",
+    "items": [
+      "Comprehensive flight search",
+      "Multi-city bookings",
+      "Multi-IATA & multi-GDS support",
+      "Integration with multiple airlines & PCCs",
+      "Package price selection for maximum flexibility",
+      "Class & seat selection",
+      "Seamless ticket changes, cancellations and refunds"
+    ]
+  },
+  "fareTypes": {
+    "title": "Supported fare types",
+    "intro": "Cater to every passenger category with ease.",
+    "groups": [
+      { "label": "Passenger types", "items": ["INF · Infant", "CHD · Child", "SRC · Senior", "YTH / STU · Youth & Student"] },
+      { "label": "Special categories", "items": ["SEA · Sailor", "MIL · Military", "ITX · Tour operator", "LBR · Ethnic"] },
+      { "label": "Fare families", "items": ["Published", "Corporate", "CAT25 / CAT35", "Negotiated", "Charter", "Consolidator"] }
+    ]
+  },
+  "ancillaries": {
+    "title": "Value-added services to enhance passenger experience",
+    "intro": "Offer more than just flights — provide a complete travel experience.",
+    "items": [
+      "Paid seat selection & class upgrades",
+      "Additional baggage sales",
+      "Priority boarding & lounge access",
+      "Food & beverage offerings",
+      "Ground transportation & in-flight services",
+      "Onboard shopping & entertainment",
+      "Health services & pet travel support",
+      "Unaccompanied minor assistance"
+    ],
+    "image": "/images/photos/cabin.jpg"
+  },
+  "agencyTools": {
+    "title": "Powerful tools for agencies & sub-agencies",
+    "items": [
+      { "text": "Effortlessly sell round-trip flights from different airlines in one transaction.", "figure": "Turntable" },
+      { "text": "Sub-agencies under your IATA account can manage all ticketing operations from a single platform.", "figure": "Rebuild" },
+      { "text": "Real-time monitoring of all transactions and activities for complete operational transparency.", "figure": "Loupe" },
+      { "text": "Seamless BackOffice integration lets sub-agencies and passengers book tickets with available credit lines.", "figure": "Drawer" }
+    ]
+  },
+  "revenue": {
+    "eyebrow": "Beyond software",
+    "title": "New-generation solutions for maximum revenue",
+    "text": "Leverage AirviaTech's dynamic sales screens to distribute tickets to sub-agencies and corporate customers with tailored pricing models. International travel agencies and airlines can easily provide wholesaler, market-limited, web and corporate-published fares, ensuring global reach and profitability."
+  },
+  "closing": {
+    "title": "Stay ahead of the competition",
+    "text": "AirviaTech is designed to give your agency the edge it needs in a highly competitive travel industry. Unlock new revenue streams, optimize operations and deliver an unmatched booking experience for your customers."
+  }
+}

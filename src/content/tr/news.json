@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "title": "Haberler",
+    "description": "AirviaTech'ten haberler, iş birlikleri ve havayolu dağıtımı ile seyahat teknolojisi dünyasından içgörüler."
+  },
+  "hero": {
+    "eyebrow": "AirviaTech'ten haberler",
+    "title": "Seyahat teknolojisinin kokpitinden haberler ve içgörüler",
+    "text": "İş birlikleri, sertifikalar ve NDC ile havayolu dağıtımı üzerine pratik rehberler."
+  },
+  "categories": {
+    "news": "AirviaTech Haberler",
+    "tips": "AirviaTech İpuçları"
+  },
+  "all": "Tümü",
+  "event": {
+    "label": "Etkinlikler",
+    "title": "Fuarda görüşelim mi?",
+    "text": "Yaklaşan seyahat teknolojisi etkinliklerinde AirviaTech ekibiyle tanışın. Görüşme planlamak için bize ulaşın.",
+    "cta": "Görüşme planla"
+  },
+  "posts": [
+    {
+      "slug": "airviatech-and-wingie-enuygun-group-join-forces-in-travel-technology",
+      "category": "news",
+      "date": "2026-07-30",
+      "image": "/images/news/enuygun-tr.jpg",
+      "title": "AirviaTech ve Wingie Enuygun Group'tan seyahat teknolojilerinde güç birliği",
+      "excerpt": "Türkiye'nin lider seyahat platformu ENUYGUN.com, özelleştirilmiş havayolu içeriklerine tek API ile erişmek için AirviaTech altyapısını tercih etti.",
+      "body": [
+        { "type": "lead", "text": "Türkiye'nin lider seyahat platformu ENUYGUN.com, AirviaTech altyapısını tercih etti." },
+        { "type": "p", "text": "AirviaTech ve Wingie Enuygun Group, havayolu dağıtım teknolojileri alanında yeni bir iş birliğine imza attı. İş birliği kapsamında ENUYGUN.com, AirviaTech tarafından geliştirilen yeni nesil uçuş dağıtım altyapısı üzerinden özelleştirilmiş havayolu içeriklerine tek API ile erişim sağlayacak." },
+        { "type": "p", "text": "Taraflar arasında ayrıca bir B2B iş birliği de başlıyor. Bu sayede AirviaTech kullanıcısı seyahat acenteleri Wingie Enuygun Group'un global içeriğine erişebilecek." },
+        { "type": "p", "text": "Seyahat sektöründe havayolu içeriklerinin giderek parçalı hale gelmesi, online seyahat platformlarının çok sayıda teknoloji ve dağıtım kanalını eş zamanlı yönetmesini zorunlu kılıyor. AirviaTech'in geliştirdiği Aggregator Platformu, farklı içerik kaynaklarını tek standart altında birleştirerek daha verimli ve ölçeklenebilir bir yapı sunuyor." },
+        { "type": "quote", "text": "Bugün seyahat sektörünün en büyük ihtiyaçlarından biri, farklı dağıtım kanallarını tek noktadan yönetebilmek. ENUYGUN.com sektörün lider oyuncularından. AirviaTech altyapısını tercih etmesi, geliştirdiğimiz teknolojinin ölçeklenebilirliği ve güvenilirliği açısından son derece değerli.", "cite": "Serkan Selen, AirviaTech CEO'su" },
+        { "type": "quote", "text": "Kullanıcılarımıza en geniş içerik seçeneklerini en iyi deneyimle sunmayı hedefliyoruz. AirviaTech'in sunduğu uçuş dağıtım altyapısı, operasyonel verimlilik ve entegrasyon yönetimi açısından bize önemli avantajlar sağlıyor.", "cite": "Orkun Özkan, Wingie Enuygun Group Uçak Biletinden Sorumlu Genel Müdür Yardımcısı" },
+        { "type": "p", "text": "AirviaTech bugün NDC havayolları, GDS sistemleri, düşük maliyetli taşıyıcılar (LCC), charter ve blok koltuk tedarikçileri dahil çok sayıda içerik sağlayıcısını tek entegrasyon çatısı altında birleştiriyor. Türkiye merkezli bağımsız bir teknoloji şirketi olan AirviaTech; Avrupa, Orta Doğu ve Türki Cumhuriyetler başta olmak üzere birçok pazarda faaliyet gösteriyor." },
+        { "type": "h2", "text": "AirviaTech hakkında" },
+        { "type": "p", "text": "AirviaTech; havayolları, online seyahat platformları, seyahat acenteleri ve kurumsal seyahat yönetim şirketleri için entegrasyon ve dağıtım teknolojileri geliştiren Türkiye merkezli bir seyahat teknolojileri şirketidir. NDC, GDS, LCC ve charter içeriklerini tek API altında birleştiren AirviaTech Aggregator Platformu ile şirket, \"One API. All Airlines.\" vizyonuyla faaliyet gösteriyor." },
+        { "type": "h2", "text": "Wingie Enuygun Group hakkında" },
+        { "type": "p", "text": "Wingie Enuygun Group, wingie.com ve enuygun.com platformları aracılığıyla faaliyet gösteren, MENA bölgesinin lider seyahat pazar yerlerinden biridir. Uçak bileti, otel, araç kiralama, otobüs bileti ve transfer dahil kapsamlı bir ürün portföyü sunan şirket, 27 dilde hizmet veriyor ve yılda yaklaşık 200 milyon ziyaretçi çekiyor." }
+      ]
+    },
+    {
+      "slug": "ucuzabilet-selects-airviatech-for-its-airline-content-infrastructure",
+      "category": "news",
+      "date": "2026-06-30",
+      "image": "/images/news/ucuzabilet-tr.jpg",
+      "title": "Ucuzabilet, hava yolu içerik altyapısında AirviaTech'i tercih etti",
+      "excerpt": "Ucuzabilet, AirviaTech'in yeni nesil dağıtım platformu üzerinden NDC, GDS, LCC ve diğer hava yolu içeriklerine tek entegrasyonla erişecek.",
+      "body": [
+        { "type": "lead", "text": "Türkiye'nin önde gelen online seyahat platformlarından Ucuzabilet, hava yolu dağıtım altyapısını güçlendirmek ve daha geniş içerik erişimi sağlamak amacıyla AirviaTech ile iş birliği anlaşması imzaladı." },
+        { "type": "p", "text": "İş birliği kapsamında Ucuzabilet, AirviaTech'in geliştirdiği yeni nesil hava yolu dağıtım platformu üzerinden NDC, GDS, LCC ve diğer hava yolu içeriklerine tek entegrasyonla erişim sağlayabilecek." },
+        { "type": "p", "text": "AirviaTech'in \"One API. All Airlines.\" yaklaşımı sayesinde seyahat şirketleri, farklı hava yolu sistemleriyle ayrı ayrı entegrasyon yapmak yerine tek API üzerinden çok sayıda hava yolu ve dağıtım kanalına erişebiliyor." },
+        { "type": "quote", "text": "Ucuzabilet olarak kullanıcılarımıza daha geniş uçuş seçenekleri, güncel hava yolu içerikleri ve daha hızlı rezervasyon deneyimi sunmayı önemsiyoruz. AirviaTech ile gerçekleştirdiğimiz bu iş birliği, içerik erişimimizi güçlendirme ve teknolojik altyapımızı daha esnek hale getirme hedefimiz açısından önemli bir adım.", "cite": "Mehmet Erden, Ucuzabilet Müdürü" },
+        { "type": "quote", "text": "Ucuzabilet gibi Türkiye'nin önemli online seyahat markalarından biriyle çalışacak olmaktan büyük memnuniyet duyuyoruz. Amacımız, seyahat şirketlerinin hava yolu içeriklerine daha hızlı, daha verimli ve daha sürdürülebilir şekilde erişmesini sağlamak.", "cite": "Serkan Selen, AirviaTech CEO'su" },
+        { "type": "p", "text": "AirviaTech bugün NDC hava yolları, GDS sistemleri, düşük maliyetli hava yolları (LCC), charter ve blok koltuk içerikleri dahil çok sayıda kaynağı tek platform altında birleştiren Türkiye merkezli teknoloji şirketleri arasında önemli bir konuma sahip." },
+        { "type": "p", "text": "Kurulduğu günden bu yana havacılık ve seyahat teknolojileri alanında yenilikçi çözümler geliştiren AirviaTech, seyahat şirketlerine sunduğu API ve platform çözümleriyle dijital dönüşümlerine katkı sağlamaya devam ediyor." }
+      ]
+    },
+    {
+      "slug": "turkish-airlines-ndc-application-process-why-you-should-choose-airviatech-as-your-aggregator",
+      "category": "tips",
+      "date": "2025-12-05",
+      "image": "/images/news/thy-ndc.jpg",
+      "title": "Turkish Airlines NDC başvuru süreci ve neden AirviaTech'i seçmelisiniz?",
+      "excerpt": "Doğrudan NDC entegrasyonu başvuru, sertifikasyon, test ve sürekli bakım gerektirir. THY sürecinin nasıl işlediğini ve daha hızlı yolu anlattık.",
+      "body": [
+        { "type": "h2", "text": "Giriş" },
+        { "type": "p", "text": "Türk Hava Yolları (THY) NDC entegrasyonu, acenteler ve OTA'lar için daha rekabetçi fiyatlara, daha zengin içeriklere ve modern satış olanaklarına açılan bir kapıdır. Ancak doğrudan NDC entegrasyonu; başvuru, sertifikasyon, teknik testler, XML/NDC uzmanlığı ve sürekli bakım gerektiren karmaşık bir süreçtir." },
+        { "type": "p", "text": "Tam da bu nedenle, Türkiye'nin ilk ve tek IATA onaylı NDC aggregator'ı olan AirviaTech, acentelerin THY içeriklerine hızlı, güvenli ve minimum teknik yükle erişebilmesini sağlar." },
+        { "type": "h2", "text": "1. THY NDC başvuru süreci nasıl işler?" },
+        { "type": "h3", "text": "1.1 Resmi başvuru formunun doldurulması" },
+        { "type": "p", "text": "THY, NDC erişimi isteyen firmalardan bir başvuru formu talep eder. Bu formda genellikle şu bilgiler istenir:" },
+        { "type": "ul", "items": ["Firma unvanı ve resmi bilgiler", "IATA veya IATA olmayan acente durumu", "Beklenen işlem hacmi", "Kullanım amacı (B2B, OTA, kurumsal seyahat vb.)", "Entegrasyon tipi (doğrudan entegrasyon mu, aggregator kullanımı mı?)"] },
+        { "type": "p", "text": "Başvurunun değerlendirilmesi, THY'nin iç süreçlerine ve profilinize bağlı olarak birkaç gün ile birkaç hafta sürebilir." },
+        { "type": "h3", "text": "1.2 Test ortamı ve dokümantasyon paylaşımı" },
+        { "type": "ul", "items": ["Sandbox (test ortamı) erişim bilgileri", "API dokümantasyonları", "Teknik entegrasyon yönergeleri ve örnek akışlar"] },
+        { "type": "p", "text": "Bu aşamadan sonra kendi yazılım ekibinizin NDC yapısına uygun entegrasyonu geliştirmesi beklenir." },
+        { "type": "h3", "text": "1.3 Doğrudan entegrasyonun zorlukları" },
+        { "type": "ul", "items": ["XML / NDC güncel şema bilgisi", "Detaylı test senaryolarının uygulanması", "Hata yönetimi ve log analizi", "Sistem stabilitesi, versiyon takibi ve bakım", "Deneyimli bir yazılım ekibi ve zaman"] },
+        { "type": "p", "text": "Sonuç olarak doğrudan entegrasyon, çoğu firma için uzun süren, maliyetli ve riskli bir yatırıma dönüşebilir." },
+        { "type": "h2", "text": "2. Neden AirviaTech'i aggregator olarak seçmelisiniz?" },
+        { "type": "h3", "text": "2.1 THY NDC içeriğine sertifikasyonsuz ve hızlı erişim" },
+        { "type": "p", "text": "AirviaTech, THY dahil pek çok havayolu için NDC sertifikasyonlarını tamamlamış ve IATA tarafından resmi olarak tanınan bir NDC aggregator'dır. Bir kez AirviaTech API'sine bağlanırsınız; THY NDC içeriğine aynı altyapı üzerinden erişirsiniz." },
+        { "type": "h3", "text": "2.2 Tek API ile birden fazla havayolu" },
+        { "type": "ul", "items": ["Tek entegrasyonla birden fazla havayolunu çalıştırın", "Farklı kaynaklardan gelen içerikleri tek API yanıtında görün", "Operasyon ve bakım maliyetinizi ciddi şekilde düşürün"] },
+        { "type": "h3", "text": "2.3 Teknik yükü üstlenen taraf" },
+        { "type": "p", "text": "API stabilitesi, şema ve versiyon güncellemeleri, hata yönetimi, biletleme kuralları ve performans optimizasyonu AirviaTech tarafından yönetilir. Acenteniz yalnızca satışa hazır, temiz ve tutarlı uçuş verisini kullanır." },
+        { "type": "h3", "text": "2.4 Çok hızlı canlıya geçiş" },
+        { "type": "p", "text": "Doğrudan THY entegrasyonu haftalar hatta aylar sürebilirken, AirviaTech üzerinden entegrasyon çoğu senaryoda çok kısa sürede tamamlanabilir." },
+        { "type": "h3", "text": "2.5 Acentelere özel destek" },
+        { "type": "p", "text": "AirviaTech, Türkiye'de ve yurt dışında çok sayıda büyük acente ve OTA ile çalışmanın getirdiği saha deneyimine sahiptir. Entegrasyon, canlıya geçiş ve günlük operasyon süreçlerinde ekiplerinize aktif destek sunulur." },
+        { "type": "h2", "text": "Sonuç" },
+        { "type": "p", "text": "THY NDC'ye başvurmak önemli bir adımdır; ancak doğrudan entegrasyon çoğu firma için zaman, maliyet ve operasyonel yük anlamında ciddi bir bariyer oluşturur. IATA onaylı bir NDC aggregator olan AirviaTech ile çalışmak bu bariyerleri ortadan kaldırarak THY uçuşlarını çok daha hızlı, kolay ve sürdürülebilir şekilde satışa açmanızı sağlar." }
+      ]
+    },
+    {
+      "slug": "airviatech-becomes-the-first-iata-certified-aggregator-based-in-turkey",
+      "category": "news",
+      "date": "2025-06-18",
+      "image": "/images/news/iata-aggregator.jpg",
+      "title": "AirviaTech, IATA sertifikalı ilk Türkiye merkezli aggregator oldu",
+      "excerpt": "AirviaTech, IATA'nın Airline Retailing Maturity (ARM) Index kapsamında \"System Provider for Sellers\" statüsüne layık görüldü.",
+      "body": [
+        { "type": "lead", "text": "Yeni nesil seyahat teknolojileri geliştiren AirviaTech Teknoloji A.Ş., IATA tarafından yapılan değerlendirme sonucunda Airline Retailing Maturity (ARM) Index kapsamında \"System Provider for Sellers\" statüsüne layık görüldü." },
+        { "type": "p", "text": "AirviaTech, bu unvana sahip olan Türkiye merkezli ilk ve tek aggregator'dır. Bu statü, AirviaTech'in havayolu içeriklerini IATA'nın küresel standartlarına uygun şekilde, şeffaf, tarafsız ve yüksek teknolojili bir altyapıyla sunduğunu belgelemektedir." },
+        { "type": "quote", "text": "IATA tarafından resmi olarak tanınmak, AirviaTech'in yalnızca teknik yeterliliğini değil, sektöre sunduğu vizyonu da uluslararası ölçekte onaylamış oldu. Amacımız, acentelerin karmaşık sistemlerle değil, satışa ve müşteriye odaklandığı bir düzene geçmesini sağlamak.", "cite": "Serkan Selen, AirviaTech CEO'su" },
+        { "type": "p", "text": "AirviaTech, havayolu dağıtım ekosistemini sadeleştirmek ve dönüştürmek amacıyla kurulmuş, yeni nesil ve tamamen bağımsız bir seyahat teknolojisi firmasıdır. Bünyesinde hiçbir acente ya da satış oluşumu bulunmaz; yalnızca teknoloji altyapısı geliştirmeye odaklanır." },
+        { "type": "h2", "text": "Acenteler için ne anlama geliyor?" },
+        { "type": "ul", "items": ["Tek API, sınırsız içerik: NDC, GDS ve doğrudan XML API bağlantıları tek noktada.", "Hızlı entegrasyon: yeni havayolları aylar değil, haftalar içinde.", "Yazılım kaynağından tasarruf: tüm teknik bağlantıları AirviaTech sağlar.", "İş gücünde verimlilik: satış ve operasyon ekipleri müşteriye odaklanır.", "Gerçek zamanlı fiyat ve koltuk durumu: dinamik fiyatlama, kurumsal fiyatlar ve promosyonlar tek API'de."] },
+        { "type": "h2", "text": "AirviaTech'in ulaştığı nokta" },
+        { "type": "p", "text": "AirviaTech, kısa sürede 70'e yakın havayolu ile doğrudan NDC veya XML entegrasyonlarını tamamlayarak bu içerikleri tek birleşik API üzerinden sunar hale geldi ve her geçen gün yeni NDC, XML ve charter entegrasyonlarıyla büyümeye devam ediyor." },
+        { "type": "h2", "text": "Stratejik teknoloji ortaklıkları" },
+        { "type": "ul", "items": ["Microsoft AI Cloud Partner Program üyesi", "Amazon AWS Partner Network (APN) resmi teknoloji iş ortağı"] }
+      ]
+    },
+    {
+      "slug": "airviatech-launches-a-fresh-perspective-backed-by-20-years-of-industry-experience",
+      "category": "news",
+      "date": "2025-04-17",
+      "image": "/images/photos/digital-aircraft.jpg",
+      "title": "AirviaTech kuruldu: 20 yıllık deneyimle sektöre yepyeni bir bakış",
+      "excerpt": "GDS'ten havayolu entegrasyonlarına, OTA yapılarından charter operasyonlarına uzanan 20 yılı aşkın saha tecrübesi tek platformda.",
+      "body": [
+        { "type": "lead", "text": "Seyahat teknolojileri alanında uzun yıllara dayanan bilgi birikimi ve operasyonel deneyimle kurulan AirviaTech, sektöre güçlü bir giriş yaptı." },
+        { "type": "p", "text": "Arkasında 20 yılı aşkın saha tecrübesi bulunan ekip; GDS sistemlerinden havayolu entegrasyonlarına, OTA yapılarından charter operasyonlarına kadar birçok alanda edindiği uzmanlığı artık tek bir platformda sunuyor." },
+        { "type": "h2", "text": "60'tan fazla havayolu, tek platform" },
+        { "type": "p", "text": "AirviaTech, 60'tan fazla havayolunun içeriğini NDC, GDS, XML ve özel airline API bağlantılarıyla sunuyor; iptal, iade, ek hizmetler ve yolcu profili yönetimi gibi satış sonrası süreçler de aynı sistemden yönetiliyor." },
+        { "type": "h2", "text": "Güçlü entegrasyon altyapısı" },
+        { "type": "ul", "items": ["NDC bağlantıları", "Amadeus, Sabre, Travelport ve Sirena gibi GDS sistemleri", "XML / REST API servisleri", "Charter koltuk sistemleri"] },
+        { "type": "quote", "text": "AirviaTech'i geliştirirken sadece yazılım üretmedik; yıllarca sahada yaşadığımız tüm zorluklara çözüm aradık ve onları bu sistemin içine entegre ettik.", "cite": "AirviaTech ekibi" },
+        { "type": "h2", "text": "Neden AirviaTech?" },
+        { "type": "ul", "items": ["20 yılı aşkın sektörel bilgi birikimi", "60+ havayolu içeriği, çoklu entegrasyon yapısı", "Esnek ve modüler mimari", "Geliştirici dostu API altyapısı", "B2B ve B2C yapılar için özelleştirilebilir çözümler"] }
+      ]
+    },
+    {
+      "slug": "what-airviatech-brings-to-the-travel-industry-more-than-just-technology",
+      "category": "news",
+      "date": "2025-04-19",
+      "image": "/images/photos/globe-hands.jpg",
+      "title": "AirviaTech seyahat sektörüne ne getiriyor: sadece teknolojiden fazlası",
+      "excerpt": "İşinize gerçek ve ölçülebilir değer katmak için tasarlandı.",
+      "body": [
+        { "type": "lead", "text": "AirviaTech, hizmet verdiği işletmelere gerçek, ölçülebilir değer katma hedefiyle kuruldu." },
+        { "type": "p", "text": "Sabit kalıplara sıkışmış klasik yazılım çözümleri sunmak yerine; farklı pazarlara, iş ortaklarına ve ihtiyaçlara uyum sağlayabilen esnek bir platform olarak geliştirildi. AirviaTech'i farklı kılan temel özellikler:" },
+        { "type": "ul", "items": ["Uzun vadeli büyümeyi destekleyen şeffaf ve ölçeklenebilir altyapı", "Düşük operasyonel maliyet ile yüksek içerik erişimi dengesi", "Yeni girişimlerden kurumsal yapılara kadar her seviyeye uygun modüler yapı", "Ek hizmetler, iptal ve iade gibi satış sonrası işlemleri kapsayan entegre özellikler", "B2B, B2C, kurumsal seyahat, OTA gibi farklı iş modellerine tam uyum"] },
+        { "type": "quote", "text": "Misyonumuz; seyahat içeriğini herkes için daha akıllı, daha erişilebilir ve daha kârlı hale getirmek.", "cite": "AirviaTech" },
+        { "type": "p", "text": "Küresel ölçekte hazır bir altyapı ve iş ortağı öncelikli yaklaşımıyla AirviaTech, yalnızca bir ürün sunmuyor — modern seyahat dağıtımı için yeni bir standart belirliyor." }
+      ]
+    },
+    {
+      "slug": "airviatech-enters-the-market-with-a-strong-future-focused-vision",
+      "category": "news",
+      "date": "2025-04-19",
+      "image": "/images/photos/hand-particles.jpg",
+      "title": "Geleceğin seyahat teknolojisi AirviaTech ile bugün başlıyor",
+      "excerpt": "GDS, LCC, NDC ve charter içeriklerini tek, geliştirici dostu bir API üzerinden sunan yeni nesil içerik toplayıcı.",
+      "body": [
+        { "type": "lead", "text": "Seyahat içeriklerinin daha hızlı, daha akıllı ve daha esnek dağıtılmasına yönelik artan talep doğrultusunda AirviaTech, yeni nesil bir içerik toplayıcı (aggregator) olarak global seyahat teknolojileri sahnesine adım atıyor." },
+        { "type": "p", "text": "Online seyahat acenteleri, konsolidatörler, kurumsal seyahat yöneticileri ve B2C seyahat markalarının ihtiyaçlarını karşılamak üzere tasarlanan AirviaTech, gelişmiş entegrasyonları kullanıcı odaklı bir tasarımla buluşturuyor." },
+        { "type": "p", "text": "GDS, LCC, NDC ve charter envanteri gibi çoklu kaynaklardan gelen uçuş içeriklerini tek bir geliştirici dostu API üzerinden erişilebilir hale getiriyor. Sonuç: daha az karmaşa, daha düşük maliyet ve pazara çok daha hızlı çıkış." },
+        { "type": "quote", "text": "Biz sadece içerik toplamakla kalmıyoruz — seyahat içeriğinin nasıl sunulduğunu, yönetildiğini ve satıldığını yeniden tasarlıyoruz.", "cite": "AirviaTech" },
+        { "type": "p", "text": "Anlık rezervasyon altyapısı, satış sonrası hizmetler, esnek fiyatlama modelleri ve modüler yapılandırma seçenekleriyle AirviaTech, daha ilk günden büyümeyi destekleyecek şekilde inşa edildi." }
+      ]
+    }
+  ]
+}

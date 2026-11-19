@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Tedarikçiler & Entegrasyonlar",
+    "description": "AirviaTech'in global tedarik ekosistemi: GDS, NDC, doğrudan XML, OTA ve charter tedarikçileri tek API altında."
+  },
+  "hero": {
+    "eyebrow": "Yenilikçi Ol – Bağlan – Güçlen",
+    "title": "Dünya genelinden tedarikçiler, stratejik ortaklıklarla tek platformda",
+    "text": "AirviaTech; stratejik iş ortaklıkları, derin entegrasyonlar ve her geçen gün büyüyen güvenilir tedarikçi ağı sayesinde uçuş rezervasyon ekosisteminde öne çıkıyor. Birleştirilmiş platform yapımız, dünyanın en değerli seyahat içeriklerine hızlı ve sorunsuz erişim sunuyor."
+  },
+  "stats": ["yearsExperience", "dailyQueries", "launchedProjects"],
+  "network": {
+    "eyebrow": "AirviaTech ekosistemi",
+    "title": "Teknolojiyi güvenle birleştiriyoruz",
+    "hint": "Döndürmek için sürükleyin · bir düğümün üzerine gelin",
+    "center": "Tek API"
+  },
+  "categories": {
+    "gds": { "label": "GDS", "full": "Global Dağıtım Sistemi", "text": "Dünyanın önde gelen dağıtım sistemleri, tam entegre." },
+    "ndc": { "label": "NDC", "full": "New Distribution Capability", "text": "Zengin içerik ve ek hizmetlerle sertifikalı doğrudan NDC bağlantıları." },
+    "xml": { "label": "XML", "full": "Doğrudan bağlantı", "text": "Daha geniş envanter için doğrudan havayolu ve LCC API'leri." },
+    "ota": { "label": "OTA", "full": "Online seyahat acentesi", "text": "Global tedarikçi ve OTA içerik ortakları." },
+    "charter": { "label": "Charter", "full": "Charter ve blok koltuk", "text": "Charter operatörleri ve blok koltuk envanteri." }
+  },
+  "map": {
+    "title": "AirviaTech ekosistem haritası",
+    "text": "Tüm entegrasyonlar, tek standart yanıt."
+  }
+}

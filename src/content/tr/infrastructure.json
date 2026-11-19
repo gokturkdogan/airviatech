@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "title": "Altyapımız",
+    "description": "Üst düzey teknoloji, kanıtlanmış performans: gerçek zamanlı veri işleme, ölçeklenebilir mimari, güvenlik, gelişmiş API'ler ve bulut tabanlı çözümler."
+  },
+  "hero": {
+    "eyebrow": "Uç – Yönlendir – İletişimde Kal",
+    "title": "Üst düzey teknoloji, kanıtlanmış performans",
+    "text": "AirviaTech, yıllara dayanan uzmanlıkla geliştirilmiş, son teknolojiye sahip bir platformdur. Tüm GDS ve havayolu entegrasyonlarını tek çatı altında bir araya getirerek güçlü altyapısı, üstün performansı ve yüksek güvenilirliğiyle küresel uçak bileti satış süreçlerini kusursuz bir deneyime dönüştürür."
+  },
+  "pillars": {
+    "title": "Mükemmel performansın temeli: güçlü altyapı",
+    "items": [
+      { "title": "Kapsamlı çözümler", "text": "IATA ve IATA olmayan seyahat acenteleri için tam kapsamlı ve esnek biletleme çözümleri sunar.", "stat": null },
+      { "title": "Yüksek trafik dayanıklılığı", "text": "Günlük {{dailyQueries}} sorguyu kolaylıkla işler; yoğun talep ortamlarında dahi kesintisiz performans sağlar.", "stat": "dailyQueries" },
+      { "title": "Güvenilir biletleme altyapısı", "text": "Sadece tek bir acentede günlük {{dailyTickets}} biletleme kapasitesiyle test edilmiş ve optimize edilmiş sistemimiz, operasyonel verimliliği en üst düzeye çıkarır.", "stat": "dailyTickets" }
+    ],
+    "tagline": "AirviaTech ile gücü, hızı ve kesintisiz güveni bir arada yaşayın."
+  },
+  "technology": {
+    "eyebrow": "AirviaTech teknolojisi",
+    "title": "Güçlü performans, esnek yapı, sınırsız ölçeklenebilirlik",
+    "text": "En yeni teknolojilerle donatılan AirviaTech, küresel rezervasyon süreçlerinde maksimum performans ve yüksek güvenilirlik sağlar. Sistemimizin temel avantajları:",
+    "items": [
+      {
+        "title": "Gerçek zamanlı veri işleme",
+        "points": ["Anlık veri güncellemeleri ve işlem takibi, rezervasyon süreçlerinde hız ve güvenilirlik sağlar.", "Operasyonlarınızın her aşaması tam şeffaflıkla izlenebilir."],
+        "figure": "Phosphor"
+      },
+      {
+        "title": "Ölçeklenebilir mimari",
+        "points": ["Dinamik sistem altyapısı, artan işlem hacimlerine anında uyum sağlar.", "Yoğun trafik dönemlerinde dahi kesintisiz ve verimli işlem performansı sunar."],
+        "figure": "Terrain"
+      },
+      {
+        "title": "Güvenlik: verileriniz bizimle güvende",
+        "points": ["Endüstri standartlarında şifreleme ve veri güvenliği protokolleriyle tam koruma sağlanır.", "Güncel güvenlik duvarları ve yetkisiz erişim önleme sistemleri sayesinde verileriniz her an korunur."],
+        "figure": "Vault"
+      },
+      {
+        "title": "Gelişmiş API entegrasyonları",
+        "points": ["Esnek ve geliştirici dostu API yapısı, farklı sistemlere kolayca uyum sağlar.", "GDS ve havayolu sistemleriyle kesintisiz bağlantı, hızlı ve verimli entegrasyon süreçlerini mümkün kılar."],
+        "figure": "Plug"
+      },
+      {
+        "title": "Bulut tabanlı çözümler",
+        "points": ["Amazon Web Services gibi lider platformlarda barındırılan sistem, yüksek erişilebilirlik ve kesintisiz operasyon sunar.", "Gelişmiş yedekleme ve yük dengeleme mekanizmaları operasyonlarınızın sürekli güvenli ve erişilebilir kalmasını sağlar."],
+        "figure": "Cabinet"
+      }
+    ]
+  },
+  "closing": {
+    "title": "AirviaTech ile yeniliğin, güvenilirliğin ve güçlü bir altyapının kapılarını aralayın."
+  }
+}

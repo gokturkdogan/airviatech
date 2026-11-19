@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "title": "Products",
+    "description": "Innovative solutions in travel technology: Aggregator, AirviaGo Charter, API, Agent (B2B), E-Commerce (B2C), APP and Enterprise."
+  },
+  "hero": {
+    "eyebrow": "Innovative solutions in travel technology",
+    "title": "One platform. Seven ways to sell the sky.",
+    "text": "AirviaTech offers cutting-edge and comprehensive solutions for travel agencies, tour operators, corporate clients and individual travelers. With advanced technology, flexible integration options and a user-centric approach, we optimize the travel experience for maximum efficiency."
+  },
+  "closing": {
+    "title": "Step into the future of travel technology",
+    "text": "With our innovative and scalable solutions, transform the travel industry and elevate your business. Discover AirviaTech products for tailored solutions that fit your business needs."
+  },
+  "items": [
+    {
+      "slug": "airviatech-aggregator",
+      "name": "AirviaTech Aggregator",
+      "tagline": "The ultimate airline content solution",
+      "category": "Content distribution",
+      "figure": "Settle",
+      "image": "/images/photos/global-network.jpg",
+      "headline": "The future of airline ticketing & content distribution",
+      "subheadline": "Unmatched airline connectivity & smart fare management",
+      "intro": [
+        "AirviaTech Aggregator is a next-generation airline ticketing and content distribution platform that empowers travel agencies, tour operators and online travel businesses with seamless access to a vast network of global airlines.",
+        "With real-time integration to {{airlines}} airlines, including both full-service and low-cost carriers, our platform ensures you get the most competitive fares, dynamic pricing and extensive travel options at your fingertips."
+      ],
+      "sections": [
+        {
+          "title": "Key features & benefits",
+          "layout": "grid",
+          "items": [
+            { "title": "Multi-GDS & NDC support", "text": "Direct connectivity with multiple GDSs and NDC airline systems for exclusive airline fares. Manage multiple IATA and agency accounts in one centralized system — fully compliant with IATA NDC standards for the richest content and ancillaries." },
+            { "title": "Dynamic pricing & smart fare optimization", "text": "AI-powered dynamic pricing models, integration with negotiated, published and corporate fares, and real-time fare comparison across providers so you always get the best deal." },
+            { "title": "Advanced search & booking", "text": "Multi-city, one-way and round-trip itineraries, real-time availability with instant confirmation, and comprehensive seat selection and cabin class options." },
+            { "title": "Custom API & white-label", "text": "Powerful API integrations for existing systems, fully branded B2B and B2C white-label platforms, and custom markups, commissions and discounts per market segment." },
+            { "title": "Robust reporting & analytics", "text": "Real-time dashboards for sales, booking trends and revenue, customizable reports, and AI-driven market insights and fare predictions." }
+          ]
+        },
+        {
+          "title": "Seamless airline content & ancillary services",
+          "intro": "AirviaTech Aggregator doesn't stop at ticketing — it lets travel businesses offer additional services that enhance the journey:",
+          "layout": "list",
+          "items": [
+            { "text": "Baggage allowance purchases & paid seat selection" },
+            { "text": "Priority boarding & lounge access" },
+            { "text": "Onboard meals & in-flight entertainment" },
+            { "text": "Flexible cancellation & refund policies" },
+            { "text": "Special fares for corporate, student and military travelers" }
+          ]
+        },
+        {
+          "title": "Who can benefit?",
+          "layout": "grid",
+          "items": [
+            { "title": "Travel agencies & OTAs", "text": "Simplify airline bookings, maximize revenues and scale globally." },
+            { "title": "Tour operators", "text": "Seamlessly bundle flights with vacation packages." },
+            { "title": "Corporate travel managers", "text": "Access the best business travel deals with real-time insights." },
+            { "title": "Airlines & consolidators", "text": "Expand distribution and optimize pricing for diverse markets." }
+          ]
+        },
+        {
+          "title": "Why choose AirviaTech Aggregator?",
+          "layout": "list",
+          "items": [
+            { "text": "Faster response times & real-time availability" },
+            { "text": "Seamless multi-GDS and direct airline integrations" },
+            { "text": "AI-powered pricing intelligence for competitive fares" },
+            { "text": "Easy-to-use platform with intuitive UI/UX" },
+            { "text": "Comprehensive support & dedicated account management" }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "Revolutionize your flight booking operations",
+        "text": "With AirviaTech Aggregator, travel businesses gain unparalleled access to global airline inventory, enhanced pricing strategies and superior booking capabilities — all through a single, powerful platform."
+      }
+    },
+    {
+      "slug": "airviago-charter",
+      "name": "AirviaGo Charter",
+      "tagline": "Charter & block seat management platform",
+      "category": "Charter operations",
+      "figure": "Slow",
+      "image": "/images/photos/charter.jpg",
+      "headline": "Charter & block seat provider management and operations software",
+      "subheadline": "The new era in charter flight management",
+      "intro": [
+        "Designed specifically for the aviation and travel industry, AirviaGo Charter revolutionizes inventory management, sales processes and operations for charter brokers and suppliers by unifying them into a single platform.",
+        "From flight planning to ticketing, AirviaGo Charter digitalizes the entire process to make charter operations more efficient and profitable."
+      ],
+      "sections": [
+        {
+          "title": "Features & benefits",
+          "intro": "Maximize efficiency, minimize hassle — AirviaGo Charter simplifies your charter operations.",
+          "layout": "grid",
+          "items": [
+            { "title": "Flight & inventory management", "text": "Integrate your aircraft and inventory. Schedule flights for specific destinations on different dates, defining seat classes, quantities and pricing." },
+            { "title": "Bulk data upload", "text": "Save time by importing your flight details from an Excel file in one go." },
+            { "title": "Extensive sales network", "text": "Sell directly to sub-agents through API integration and the AirviaTech Agent system." },
+            { "title": "Reservation & ticketing management", "text": "Easily manage incoming ticketing and reservation requests through the AirviaGo panel." },
+            { "title": "Seat & capacity tracking", "text": "Monitor available seats in real time, manage reservations and enhance operational efficiency." },
+            { "title": "Flexible operations", "text": "Handle changes, cancellations and refund requests effortlessly, improving customer satisfaction." },
+            { "title": "Reporting & analytics", "text": "Track sales performance and operational data with advanced reporting tools." },
+            { "title": "Sales channel management", "text": "Define different sales channels and control the entire process from a centralized panel." }
+          ]
+        },
+        {
+          "title": "Why choose AirviaGo Charter?",
+          "intro": "Real-time data means real-time control — optimize your capacity like never before.",
+          "layout": "list",
+          "items": [
+            { "text": "Easy to use and quick integration" },
+            { "text": "End-to-end digitalized charter operation management" },
+            { "text": "API and agent sales network integration" },
+            { "text": "Flexible and scalable structure" }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "Digitize and strengthen your charter operations",
+        "text": "For more information, contact us and take your charter operations to the next level."
+      }
+    },
+    {
+      "slug": "airviatech-api",
+      "name": "AirviaTech API",
+      "tagline": "Custom integration & API services",
+      "category": "Developers",
+      "figure": "Relay",
+      "image": "/images/photos/api.jpg",
+      "headline": "Create experiences, power your business with our API",
+      "subheadline": "A robust, modern integration infrastructure",
+      "intro": [
+        "AirviaTech API offers a robust, modern integration infrastructure designed to accelerate your online ticketing operations.",
+        "Instead of struggling with complex systems, focus on delivering the best user experience with our flexible and developer-friendly platform."
+      ],
+      "code": {
+        "title": "One request. Every source.",
+        "lines": [
+          "POST /v1/air/search",
+          "{",
+          "  \"origin\": \"IST\",",
+          "  \"destination\": \"LHR\",",
+          "  \"departure\": \"2026-12-18\",",
+          "  \"passengers\": { \"ADT\": 2, \"CHD\": 1 },",
+          "  \"sources\": [\"NDC\", \"GDS\", \"LCC\", \"CHARTER\"]",
+          "}"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Why choose AirviaTech API?",
+          "layout": "grid",
+          "items": [
+            { "title": "Developer-friendly platform", "text": "Clear, streamlined documentation lets you launch projects quickly. Easily adapt the API to your systems and integrate business processes smoothly." },
+            { "title": "Cost & risk management", "text": "Consolidating multiple GDS and airline integrations into one solution reduces operational risk, minimizes development and maintenance costs, and lets your team focus on growth." },
+            { "title": "Fast & seamless integration", "text": "Our next-generation architecture allows quick and secure integration of AirviaTech services into your systems — get up and running without delay." },
+            { "title": "Tailor-made experiences", "text": "You don't just integrate — you design experiences. Customize your front-end, service flow and sales strategy exactly how you want." }
+          ]
+        },
+        {
+          "title": "Benefits for developers",
+          "layout": "steps",
+          "items": [
+            { "title": "Quick start", "text": "Launch online ticket sales effortlessly with a single API integration." },
+            { "title": "Modular architecture", "text": "Choose only the services you need, keeping your system lean and efficient." },
+            { "title": "Scalable & reliable", "text": "Engineered to perform under high load with uninterrupted uptime and high availability." },
+            { "title": "Comprehensive support", "text": "Step-by-step guides, sample requests and a dedicated support team at every stage." }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "Empower your digital transformation",
+        "text": "AirviaTech API is more than a technical tool — it's your strategic partner in digital innovation. Redefine your customer experience, stand out from the competition and lead the future of travel tech."
+      }
+    },
+    {
+      "slug": "airviatech-agent",
+      "name": "AirviaTech Agent",
+      "tagline": "B2B solutions",
+      "category": "B2B",
+      "figure": "Rebuild",
+      "image": "/images/photos/b2b.jpg",
+      "headline": "Powerful B2B travel solutions",
+      "subheadline": "Integrated, flexible and profitable tools for travel agencies",
+      "intro": [
+        "AirviaTech Agent is a next-generation B2B booking platform designed specifically for travel agencies and OTAs.",
+        "It consolidates all travel products under one roof, helping you grow your sales network and manage operations effortlessly."
+      ],
+      "sections": [
+        {
+          "title": "Integrated booking systems",
+          "layout": "list",
+          "items": [
+            { "text": "Manage all flight booking processes through a single interface connected to global GDS systems, LCCs, NDC connections and third-party XML/API integrations." },
+            { "text": "Offer a complete travel experience with a rich module structure that includes flights, hotels, car rentals, transfers, visas and tour packages." }
+          ]
+        },
+        {
+          "title": "Sub-agent management",
+          "layout": "grid",
+          "items": [
+            { "title": "Custom access & pricing", "text": "Define separate permissions and pricing policies for each sub-agent." },
+            { "title": "Multi-level distribution", "text": "Build a dynamic sales structure with a full agent hierarchy." },
+            { "title": "Real-time tracking", "text": "Monitor and manage every booking and status instantly." }
+          ]
+        },
+        {
+          "title": "Marketplace & supplier integration",
+          "layout": "list",
+          "items": [
+            { "text": "Connect directly with IATA, charter operators, block seat providers and your contracted airlines via AirviaTech Agent." },
+            { "text": "Your agencies gain first-hand access to AirviaGo's exclusive seat inventory and the most competitive market fares." }
+          ]
+        },
+        {
+          "title": "Go digital with the B2B booking engine",
+          "intro": "Empower your travel agents with a web-based, user-friendly booking engine:",
+          "layout": "grid",
+          "items": [
+            { "title": "Real-time pricing", "text": "Live pricing and availability across every source." },
+            { "title": "Instant booking", "text": "Instant booking with auto-confirmation." },
+            { "title": "Commission tracking", "text": "Commission tracking and reporting built in." },
+            { "title": "Your brand", "text": "A branded interface with your own logo." }
+          ]
+        },
+        {
+          "title": "One platform, infinite possibilities",
+          "intro": "Our B2B booking module brings all your partners and distribution networks into a single, seamless platform:",
+          "layout": "list",
+          "items": [
+            { "text": "Expanded agency network for faster growth" },
+            { "text": "Profit-focused sales with full margin control" },
+            { "text": "Comprehensive reporting and analytics dashboards" }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "Borderless B2B with AirviaTech",
+        "text": "Managing and growing your B2B channel has never been easier. Empower your digital infrastructure, expand your partner network and increase your profitability with AirviaTech Agent."
+      }
+    },
+    {
+      "slug": "airviatech-e-commerce",
+      "name": "AirviaTech E-Commerce",
+      "tagline": "B2C solutions",
+      "category": "B2C",
+      "figure": "Basket",
+      "image": "/images/photos/b2c.jpg",
+      "headline": "Smart and effective B2C travel solutions",
+      "subheadline": "Deliver a seamless online booking experience to your customers",
+      "intro": [
+        "AirviaTech E-Commerce is a powerful B2C sales platform developed for travel brands aiming to reach individual end-users.",
+        "With its modern, mobile-responsive and intuitive interface, it makes the booking process fast, simple and secure for your customers."
+      ],
+      "sections": [
+        {
+          "title": "Built to convert",
+          "layout": "grid",
+          "items": [
+            { "title": "User-friendly interface", "text": "Boost conversion with a clean, intuitive, fully mobile-compatible booking interface. Users find what they need and complete their booking in a single step." },
+            { "title": "Multi-language & multi-currency", "text": "Expand internationally with multi-language options, localized pricing with dynamic currency support, and regional campaign and content management." },
+            { "title": "Fast & secure transactions", "text": "Real-time pricing and availability, SSL-protected payment systems, instant confirmation and a streamlined journey with minimal steps." },
+            { "title": "Rich content & product management", "text": "Dynamic supplier content, images, descriptions and destination info, plus combinations like tour packages or flight + hotel bundles." }
+          ]
+        },
+        {
+          "title": "Full integration, full control",
+          "layout": "list",
+          "items": [
+            { "text": "AirviaTech E-Commerce works seamlessly with major travel content sources including NDC, GDS and LCCs." },
+            { "text": "While robust travel technology powers the backend, you can focus entirely on optimizing the customer experience." }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "Get one step closer to your customers",
+        "text": "Digitize your brand, connect directly with your audience and boost your sales. Make a difference in your B2C sales channel with AirviaTech E-Commerce."
+      }
+    },
+    {
+      "slug": "airviatech-app",
+      "name": "AirviaTech APP",
+      "tagline": "Mobile solutions",
+      "category": "Mobile",
+      "figure": "Phone",
+      "image": "/images/photos/mobile.jpg",
+      "headline": "Smart mobile solutions",
+      "subheadline": "An end-to-end mobile travel experience",
+      "intro": [
+        "In today's digital era, users expect to plan their travel anytime, anywhere. AirviaTech App brings the travel experience to the palm of your hand with innovative mobile solutions for both end users and business partners.",
+        "Deliver a top-tier mobile experience with fast, secure and intuitive travel applications."
+      ],
+      "sections": [
+        {
+          "title": "Access anytime, anywhere",
+          "intro": "With AirviaTech's mobile apps, your users can:",
+          "layout": "list",
+          "items": [
+            { "text": "Easily search and compare flights" },
+            { "text": "Instantly complete their bookings" },
+            { "text": "Manage tickets and travel details right from their mobile devices" },
+            { "text": "Use apps fully optimized for both Android and iOS" }
+          ]
+        },
+        {
+          "title": "High performance & top-level security",
+          "layout": "grid",
+          "items": [
+            { "title": "Speed", "text": "Fast loading times and clean user interfaces." },
+            { "title": "Robust processing", "text": "Seamless processing powered by robust infrastructure." },
+            { "title": "Data protection", "text": "Protection with the latest security protocols." }
+          ]
+        },
+        {
+          "title": "Custom B2C mobile app development",
+          "intro": "Looking for a mobile app tailored to your brand? Our team develops custom B2C travel applications around your business needs:",
+          "layout": "list",
+          "items": [
+            { "text": "Full brand alignment with your logo, colors and content" },
+            { "text": "Seamless compatibility with your existing integrations" },
+            { "text": "Push notifications, loyalty systems and user profiles" }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "The future of travel fits in your pocket",
+        "text": "Mobile is no longer an option — it's the primary platform. Deliver a seamless, accessible and efficient experience that builds customer loyalty and increases conversion rates."
+      }
+    },
+    {
+      "slug": "airviatech-enterprise",
+      "name": "AirviaTech Enterprise",
+      "tagline": "Enterprise sales platform",
+      "category": "Corporate travel",
+      "figure": "Stack",
+      "image": "/images/photos/corporate.jpg",
+      "headline": "Next-generation corporate travel management",
+      "subheadline": "Smart travel solutions for smart companies",
+      "intro": [
+        "AirviaTech Enterprise is a powerful sales and management platform designed to help travel agencies provide tailored services to their corporate clients.",
+        "Its flexible structure offers both travel managers and employees a fully compliant reservation experience aligned with corporate policies and workflows — unifying efficiency, control and cost advantages in a single platform."
+      ],
+      "sections": [
+        {
+          "title": "Setting the new standard in corporate travel",
+          "intro": "Multiple locations, dozens of employees, tight schedules and strict budgets — AirviaTech Enterprise simplifies this complexity with centralized management:",
+          "layout": "list",
+          "items": [
+            { "text": "Manage flights, hotels and transfers from a single platform" },
+            { "text": "Create customizable booking workflows aligned with company policies" },
+            { "text": "Full control with role-based access, approval hierarchies and advanced security" }
+          ]
+        },
+        {
+          "title": "Everything a travel manager needs",
+          "layout": "grid",
+          "items": [
+            { "title": "Policy compliance & approvals", "text": "The system enforces company travel policies, filters results accordingly and automates approvals — with multi-level flows and instant notifications for high-budget trips." },
+            { "title": "Advanced search & booking", "text": "Detailed search filters and a fast booking flow so travelers find compliant options in seconds." },
+            { "title": "Integrated payment & expenses", "text": "Corporate cards, department budgets or employee cards; automatic expense recording and post-trip reimbursement workflows." },
+            { "title": "Itineraries & notifications", "text": "Detailed itineraries with Google and Outlook calendar sync, reminders, check-in alerts and centralized management for CTMs." },
+            { "title": "Reporting, tracking & analytics", "text": "Detailed expense reporting, budget forecasting, cost-saving insights and full compliance with internal audit standards." }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "Transform your corporate travel experience",
+        "text": "AirviaTech Enterprise is more than a booking platform — it's a smart management tool that optimizes your company's travel strategy. Enhance employee satisfaction, reduce costs, digitize operations and improve governance."
+      }
+    }
+  ]
+}

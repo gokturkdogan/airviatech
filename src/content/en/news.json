@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "title": "News & Insights",
+    "description": "AirviaTech news, partnerships and insights from the world of airline distribution and travel technology."
+  },
+  "hero": {
+    "eyebrow": "AirviaTech Insights",
+    "title": "News & insights from the flight deck of travel tech",
+    "text": "Partnerships, certifications and practical guides on NDC and airline distribution."
+  },
+  "categories": {
+    "news": "AirviaTech News",
+    "tips": "AirviaTech Tips"
+  },
+  "all": "All",
+  "event": {
+    "label": "Events",
+    "title": "Shall we meet at the fair?",
+    "text": "Meet the AirviaTech team at upcoming travel technology events. Get in touch to book a meeting.",
+    "cta": "Book a meeting"
+  },
+  "posts": [
+    {
+      "slug": "airviatech-and-wingie-enuygun-group-join-forces-in-travel-technology",
+      "category": "news",
+      "date": "2026-07-30",
+      "image": "/images/news/enuygun-en.jpg",
+      "title": "AirviaTech and Wingie Enuygun Group join forces in travel technology",
+      "excerpt": "Türkiye's leading travel platform ENUYGUN.com selects AirviaTech's technology infrastructure for customized airline content through a single API.",
+      "body": [
+        { "type": "lead", "text": "Türkiye's leading travel platform ENUYGUN.com selects AirviaTech's technology infrastructure." },
+        { "type": "p", "text": "AirviaTech and Wingie Enuygun Group have entered into a new partnership in the field of airline distribution technology. As part of the collaboration, ENUYGUN.com will gain access to customized airline content through a single API via AirviaTech's next-generation flight distribution infrastructure." },
+        { "type": "p", "text": "The partnership also introduces a new B2B collaboration between the two companies. Through this cooperation, travel agencies using AirviaTech will be able to access Wingie Enuygun Group's global travel content." },
+        { "type": "p", "text": "As airline content becomes increasingly fragmented across the travel industry, online travel platforms are required to manage multiple technology providers and distribution channels simultaneously. AirviaTech's Aggregator Platform brings different content sources together under a single standardized infrastructure, enabling a more efficient, scalable and manageable distribution model." },
+        { "type": "quote", "text": "One of the travel industry's key requirements today is the ability to manage different distribution channels through a single point of connectivity. ENUYGUN.com is one of the leading players in the industry, and its decision to use AirviaTech's infrastructure is highly significant for us as a reflection of the scalability and reliability of the technology we have developed.", "cite": "Serkan Selen, CEO of AirviaTech" },
+        { "type": "quote", "text": "Our goal is to provide our users with the broadest possible range of travel content while delivering the best possible experience. AirviaTech's flight distribution infrastructure provides us with important advantages in terms of operational efficiency and integration management. We believe this collaboration will make a positive contribution to both our technology infrastructure and the overall user experience.", "cite": "Orkun Özkan, Deputy General Manager – Flight Tickets, Wingie Enuygun Group" },
+        { "type": "p", "text": "Today, AirviaTech brings together a wide range of airline and travel content providers under a single integration framework, including NDC airlines, GDS platforms, low-cost carriers (LCCs), charter operators and block-seat suppliers." },
+        { "type": "p", "text": "As an independent travel technology company headquartered in Türkiye, AirviaTech operates across multiple international markets, with a particular focus on Europe, the Middle East, Türkiye and the Turkic Republics. This partnership represents another important milestone in the company's journey towards becoming a global travel technology and distribution platform." },
+        { "type": "h2", "text": "About AirviaTech" },
+        { "type": "p", "text": "AirviaTech is a Türkiye-based travel technology company developing integration and distribution solutions for airlines, online travel platforms, travel agencies and corporate travel management companies. Through the AirviaTech Aggregator Platform, the company combines NDC, GDS, LCC and charter content within a single API and operates with the vision: \"One API. All Airlines.\"" },
+        { "type": "h2", "text": "About Wingie Enuygun Group" },
+        { "type": "p", "text": "Wingie Enuygun Group is one of the leading travel marketplaces in the MENA region, operating through wingie.com and enuygun.com. The company offers a comprehensive portfolio of travel products, including flights, hotels, car rentals, bus tickets and transfers. Serving customers in 27 languages, Wingie Enuygun Group attracts approximately 200 million visitors annually." }
+      ]
+    },
+    {
+      "slug": "ucuzabilet-selects-airviatech-for-its-airline-content-infrastructure",
+      "category": "news",
+      "date": "2026-06-30",
+      "image": "/images/news/ucuzabilet-en.jpg",
+      "title": "Ucuzabilet selects AirviaTech for its airline content infrastructure",
+      "excerpt": "Ucuzabilet gains access to NDC, GDS, LCC and other airline content through a single integration via AirviaTech's next-generation distribution platform.",
+      "body": [
+        { "type": "lead", "text": "Ucuzabilet, one of Türkiye's leading online travel platforms, has entered into a strategic partnership with AirviaTech to strengthen its airline distribution infrastructure and expand access to a broader range of airline content." },
+        { "type": "p", "text": "As part of the collaboration, Ucuzabilet will gain access to NDC, GDS, LCC and other airline content through a single integration via AirviaTech's next-generation airline distribution platform." },
+        { "type": "p", "text": "With AirviaTech's \"One API. All Airlines.\" approach, travel companies can connect to multiple airlines and distribution channels through a single API, eliminating the need to develop and maintain separate integrations with individual airline systems." },
+        { "type": "quote", "text": "At Ucuzabilet, we place great importance on providing our users with a wider range of flight options, up-to-date airline content and a faster booking experience. Our collaboration with AirviaTech represents an important step in strengthening our access to airline content and making our technology infrastructure more flexible.", "cite": "Mehmet Erden, Manager at Ucuzabilet" },
+        { "type": "quote", "text": "We are very pleased to be working with Ucuzabilet, one of Türkiye's prominent online travel brands. Our goal is to enable travel companies to access airline content in a faster, more efficient and more sustainable way.", "cite": "Serkan Selen, CEO of AirviaTech" },
+        { "type": "p", "text": "AirviaTech has established itself as a Türkiye-based travel technology company bringing together a wide range of airline content sources — including NDC airlines, global distribution systems (GDS), low-cost carriers (LCC), charter flights and block-seat inventory — within a single technology platform." },
+        { "type": "p", "text": "Through its API and platform solutions, the company enables travel agencies, online travel agencies, TMCs and other travel businesses to simplify integrations, increase operational efficiency and accelerate their digital transformation." },
+        { "type": "h2", "text": "About Ucuzabilet" },
+        { "type": "p", "text": "Ucuzabilet is one of Türkiye's leading online travel platforms, providing users with access to flight options from a broad range of airlines through its digital channels. The company focuses on delivering a fast, accessible and user-friendly travel booking experience supported by continuously evolving technology." }
+      ]
+    },
+    {
+      "slug": "turkish-airlines-ndc-application-process-why-you-should-choose-airviatech-as-your-aggregator",
+      "category": "tips",
+      "date": "2025-12-05",
+      "image": "/images/news/thy-ndc.jpg",
+      "title": "Turkish Airlines NDC application process & why you should choose AirviaTech as your aggregator",
+      "excerpt": "Direct NDC integration involves application, certification, testing and continuous maintenance. Here's how the THY process works — and the faster path.",
+      "body": [
+        { "type": "h2", "text": "Introduction" },
+        { "type": "p", "text": "Integrating with Turkish Airlines (THY) using NDC is one of the most effective ways for travel agencies and OTAs to access richer content, more competitive fares and modern airline retailing capabilities. However, a direct NDC integration involves application, certification, technical testing, XML/NDC expertise and continuous maintenance — which makes it complex, time-consuming and costly." },
+        { "type": "p", "text": "This is exactly where AirviaTech, Türkiye's first and only IATA-certified NDC aggregator, comes into play. AirviaTech enables agencies to access THY content quickly, safely and with minimal technical effort." },
+        { "type": "h2", "text": "1. How the Turkish Airlines NDC application process works" },
+        { "type": "h3", "text": "1.1 Submitting the official NDC application form" },
+        { "type": "p", "text": "Turkish Airlines requires an NDC access application. In this form you are usually asked to provide:" },
+        { "type": "ul", "items": ["Company legal details", "IATA or non-IATA agency status", "Expected transaction volume", "Intended use (B2B, OTA, corporate travel, etc.)", "Integration type (direct integration vs. aggregator usage)"] },
+        { "type": "p", "text": "Depending on THY's internal workload and your profile, the evaluation may take several days to a few weeks." },
+        { "type": "h3", "text": "1.2 Receiving sandbox access & documentation" },
+        { "type": "ul", "items": ["Sandbox (test environment) credentials", "API documentation and technical references", "Guidelines and sample flows for NDC integration"] },
+        { "type": "p", "text": "From this point on, your own development team is expected to build and maintain a full NDC-compliant integration." },
+        { "type": "h3", "text": "1.3 The challenges of direct NDC integration" },
+        { "type": "ul", "items": ["Expertise in XML / NDC schemas", "Execution of mandatory test scenarios", "Robust error and exception handling", "System stability, version tracking and maintenance", "An experienced development team and dedicated time"] },
+        { "type": "p", "text": "As a result, direct integration can easily become a long, expensive and risky project for many organizations." },
+        { "type": "h2", "text": "2. Why choose AirviaTech as your NDC aggregator?" },
+        { "type": "h3", "text": "2.1 Fast access to THY NDC content — without certification" },
+        { "type": "p", "text": "AirviaTech has already completed the necessary NDC certifications with multiple airlines, including Turkish Airlines, and is officially recognized by IATA as an NDC aggregator. You simply connect to AirviaTech's API once — and access THY NDC content through the same infrastructure." },
+        { "type": "h3", "text": "2.2 One API, multiple airlines" },
+        { "type": "ul", "items": ["Work with multiple airlines via a single integration", "View and compare content from different sources in a unified API response", "Significantly reduce operational and maintenance costs"] },
+        { "type": "h3", "text": "2.3 Technical complexity handled by AirviaTech" },
+        { "type": "p", "text": "API stability, schema and version upgrades, error handling, ticketing logic and performance optimization are all managed by AirviaTech. Your systems simply consume clean, consistent and ready-to-sell airline data." },
+        { "type": "h3", "text": "2.4 Faster time-to-market" },
+        { "type": "p", "text": "While a direct Turkish Airlines integration can take weeks or even months, an integration via AirviaTech can typically be completed in a much shorter timeframe." },
+        { "type": "h3", "text": "2.5 Dedicated support & operational experience" },
+        { "type": "p", "text": "AirviaTech works with leading agencies and OTAs in Türkiye and internationally. Your teams receive active support during the initial integration, go-live and daily operations." },
+        { "type": "h2", "text": "Conclusion" },
+        { "type": "p", "text": "Applying for Turkish Airlines NDC is an important step. However, managing a full, direct NDC integration can be a significant burden in time, cost and operational risk. Partnering with AirviaTech, an officially IATA-certified NDC aggregator, removes most of that complexity and lets you start selling THY flights faster, easier and more sustainably." }
+      ]
+    },
+    {
+      "slug": "airviatech-becomes-the-first-iata-certified-aggregator-based-in-turkey",
+      "category": "news",
+      "date": "2025-06-18",
+      "image": "/images/news/iata-aggregator.jpg",
+      "title": "AirviaTech becomes the first IATA-certified aggregator based in Türkiye",
+      "excerpt": "AirviaTech has been granted \"System Provider for Sellers\" status under IATA's Airline Retailing Maturity (ARM) Index program.",
+      "body": [
+        { "type": "lead", "text": "AirviaTech Teknoloji A.Ş. has achieved global recognition by being officially granted the status of \"System Provider for Sellers\" under IATA's Airline Retailing Maturity (ARM) Index program." },
+        { "type": "p", "text": "This recognition marks AirviaTech as the first and only IATA-certified aggregator headquartered in Türkiye. The certification confirms that AirviaTech delivers airline content through a transparent, neutral and high-tech infrastructure that fully complies with IATA's global standards." },
+        { "type": "quote", "text": "Being officially recognized by IATA not only validates AirviaTech's technical capability but also affirms our broader vision for the travel industry at an international level. Our goal is to help agencies move away from complex systems and instead focus on sales and customer service.", "cite": "Serkan Selen, CEO of AirviaTech" },
+        { "type": "h2", "text": "Who we are" },
+        { "type": "p", "text": "AirviaTech is a next-generation and fully independent travel technology firm, founded to simplify and transform the airline distribution ecosystem. It operates with no agency or sales affiliation and is solely focused on developing technology infrastructure — offering a neutral, competitive and equal service to all travel agencies and stakeholders." },
+        { "type": "h2", "text": "What does this mean for travel agencies?" },
+        { "type": "ul", "items": ["One API, unlimited content: NDC, GDS and direct XML API connections consolidated.", "Fast integrations: new airlines in weeks, not months.", "Reduced development costs: AirviaTech handles all technical connections.", "Workforce efficiency: technical teams are freed up so sales and operations can focus on the customer.", "Real-time pricing and availability: dynamic fares, corporate rates, promotions and seat availability via a single API."] },
+        { "type": "h2", "text": "Where AirviaTech stands today" },
+        { "type": "p", "text": "AirviaTech has already completed direct NDC or XML integrations with nearly 70 airlines in a short span, delivering all this content through one unified API — and continues to expand rapidly with new NDC, XML and charter integrations." },
+        { "type": "h2", "text": "Strategic technology partnerships" },
+        { "type": "ul", "items": ["Official member of the Microsoft AI Cloud Partner Program", "Certified Technology Partner in the Amazon AWS Partner Network (APN)"] }
+      ]
+    },
+    {
+      "slug": "airviatech-launches-a-fresh-perspective-backed-by-20-years-of-industry-experience",
+      "category": "news",
+      "date": "2025-04-05",
+      "image": "/images/photos/digital-aircraft.jpg",
+      "title": "AirviaTech launches: a fresh perspective backed by 20 years of industry experience",
+      "excerpt": "Founded by a team with hands-on experience in GDS, airline operations, OTA platforms and charter distribution.",
+      "body": [
+        { "type": "lead", "text": "AirviaTech has officially entered the travel technology market, bringing with it more than two decades of deep operational expertise and sector knowledge." },
+        { "type": "p", "text": "Founded by a team with hands-on experience in GDS systems, airline operations, OTA platforms and charter distribution, AirviaTech is built to meet real-world challenges with smart, scalable solutions. The platform offers far more than flight content — it delivers a complete end-to-end travel infrastructure." },
+        { "type": "h2", "text": "60+ airlines on a unified platform" },
+        { "type": "p", "text": "AirviaTech provides direct access to flight content from over 60 airlines using NDC, GDS, XML and dedicated airline API integrations — with post-sales processes such as cancellations, refunds, ancillaries and passenger profile updates handled in a single system." },
+        { "type": "h2", "text": "Robust, future-ready integrations" },
+        { "type": "ul", "items": ["NDC airline connections", "Full integration with Amadeus, Sabre, Travelport and Sirena", "Standardized XML and REST API services", "Charter & block seat consolidation features"] },
+        { "type": "quote", "text": "When we built AirviaTech, we weren't just writing code — we were solving problems we've personally faced for years.", "cite": "AirviaTech team" },
+        { "type": "h2", "text": "Why AirviaTech?" },
+        { "type": "ul", "items": ["20+ years of industry expertise", "Aggregated content from 60+ airlines", "Multi-integration architecture: GDS, NDC, XML, charter", "Flexible, modular, developer-friendly design", "Tailored B2B and B2C solutions"] }
+      ]
+    },
+    {
+      "slug": "what-airviatech-brings-to-the-travel-industry-more-than-just-technology",
+      "category": "news",
+      "date": "2025-04-05",
+      "image": "/images/photos/globe-hands.jpg",
+      "title": "What AirviaTech brings to the travel industry: more than just technology",
+      "excerpt": "Built with a clear purpose: to add real, measurable value to the businesses it serves.",
+      "body": [
+        { "type": "lead", "text": "AirviaTech was built with a clear purpose: to add real, measurable value to the businesses it serves." },
+        { "type": "p", "text": "Rather than offering another rigid software package, the platform is designed to adapt — to different markets, different partners and different needs. Here's what sets AirviaTech apart:" },
+        { "type": "ul", "items": ["Transparent and scalable infrastructure for long-term growth", "Low operational cost, high content access balance", "Modular structure tailored to both startups and enterprise-level players", "Built-in post-sales capabilities such as ancillaries, refunds and cancellations", "Support for multiple business models — B2B, B2C, corporate travel, OTA and more"] },
+        { "type": "quote", "text": "Our mission is to make travel content smarter, more accessible and more profitable for everyone in the value chain.", "cite": "AirviaTech" },
+        { "type": "p", "text": "With a global-ready infrastructure and a partner-first approach, AirviaTech is not just launching a product — it's setting a new standard for modern travel distribution." }
+      ]
+    },
+    {
+      "slug": "airviatech-enters-the-market-with-a-strong-future-focused-vision",
+      "category": "news",
+      "date": "2025-04-04",
+      "image": "/images/photos/hand-particles.jpg",
+      "title": "AirviaTech enters the market with a strong, future-focused vision",
+      "excerpt": "A new-generation content aggregator delivering GDS, LCC, NDC and charter content through a single, developer-friendly API.",
+      "body": [
+        { "type": "lead", "text": "With the growing demand for faster, smarter and more flexible travel content distribution, AirviaTech officially steps into the global travel tech arena as a new-generation content aggregator." },
+        { "type": "p", "text": "Designed to meet the needs of online travel agencies, consolidators, corporate travel managers and B2C travel brands, AirviaTech offers a seamless platform that combines advanced integrations with user-centric design." },
+        { "type": "p", "text": "The platform brings together multi-source flight content — including GDS, LCC, NDC and charter inventory — and delivers it through a single, developer-friendly API. The result? Less complexity, lower cost and higher speed to market." },
+        { "type": "quote", "text": "We're not just aggregating content — we're reimagining how travel content is delivered, managed and sold.", "cite": "AirviaTech" },
+        { "type": "p", "text": "With real-time booking capabilities, post-sales services, flexible pricing models and modular configuration, AirviaTech is built to empower growth from day one." }
+      ]
+    }
+  ]
+}

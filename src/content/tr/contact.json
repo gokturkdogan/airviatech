@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "İletişim",
+    "description": "AirviaTech ile iletişime geçin — İstanbul, Antalya, Dubai ve Londra ofisleri. Mesajınızı paylaşın, sizi arayalım."
+  },
+  "hero": {
+    "eyebrow": "İletişime Geç – İş Birliği Yap – Değer Yarat",
+    "title": "Yeni projeniz hakkında konuşalım",
+    "text": "Çözümlerimiz hakkında daha fazla bilgi almak ya da bizimle çalışmaya başlamak ister misiniz? Formu doldurun, ekibimizden biri en kısa sürede sizinle iletişime geçsin."
+  },
+  "info": {
+    "locations": "Konumlar",
+    "email": "E-posta",
+    "hours": "Çalışma saatleri",
+    "phone": "Telefon",
+    "hq": "Merkez ofis",
+    "branches": "İrtibat ofisleri",
+    "directions": "Yol tarifi al"
+  },
+  "form": {
+    "title": "Mesajınızı paylaşın, sizi arayalım",
+    "name": "Ad soyad",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "company": "Şirket",
+    "topic": "İlgilendiğim konu",
+    "topics": ["Aggregator / API", "B2B Acenta", "B2C E-Ticaret", "Mobil Uygulama", "Kurumsal seyahat", "AirviaGo Charter", "İş ortaklığı", "Diğer"],
+    "message": "Size nasıl yardımcı olabiliriz?",
+    "consent": "Talebimle ilgili AirviaTech'in benimle iletişime geçmesini kabul ediyorum.",
+    "submit": "Gönder",
+    "sending": "Gönderiliyor…",
+    "success": "Mesajınız için teşekkürler. Mesajınız iletildi — en kısa sürede sizinle iletişime geçeceğiz.",
+    "error": "Mesajınız gönderilirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+    "required": "Lütfen zorunlu alanları doldurun."
+  }
+}

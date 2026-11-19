@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "Kariyer",
+    "description": "AirviaTech'te kariyerinizi yeni zirvelere taşıyın — seyahat teknolojisinin geleceğini inşa eden ekibe katılın."
+  },
+  "hero": {
+    "eyebrow": "Hayalini Kur – Gerçeğe Dönüştür – Zirveye Ulaş",
+    "title": "Geleceği inşa eden bir ekipte yerinizi alın",
+    "text": "Seyahat teknolojisinin geleceğini inşa ediyoruz — ve bunun insanla başladığına inanıyoruz."
+  },
+  "intro": {
+    "paragraphs": [
+      "Ekibimiz; tutkulu, yetenekli ve ileri görüşlü profesyonellerden oluşuyor. Yenilikçi ve iş birliğine dayalı bir ortamda birlikte gelişiyoruz.",
+      "Yolculuğunuzun başında olun ya da kariyerinizde bir üst aşamaya geçmek isteyin; size büyüme, öğrenme ve anlamlı bir etki yaratma fırsatları sunuyoruz. Seyahat dünyasının geleceğini birlikte şekillendirmek isteyen yetenekli, yaratıcı ve azimli ekip arkadaşlarını her zaman aramızda görmekten mutluluk duyarız.",
+      "AirviaTech'te bu sadece bir iş değil — aynı zamanda bir yolculuk. Fikirleri gerçeğe dönüştürmek, teknolojiyle dünyayı birbirine bağlamak ve kariyerinizi yeni zirvelere taşımak için doğru yerdesiniz."
+    ]
+  },
+  "values": [
+    { "title": "Gerçek etki", "text": "Yazdığınız kod her gün milyonlarca aramayı ve binlerce bileti hareket ettirir.", "figure": "Branches" },
+    { "title": "Öğren ve büyü", "text": "NDC, GDS ve bulut tabanlı sistemlerde sektörün deneyimli isimleriyle çalışın.", "figure": "Elevator" },
+    { "title": "İş birliği kültürü", "text": "Her fikrin kalkış için bir pist bulduğu küçük ve odaklı ekipler.", "figure": "Settle" }
+  ],
+  "openings": {
+    "title": "Kariyerinizde havalanmaya hazır mısınız?",
+    "text": "Açık pozisyonlarımızı inceleyin ya da olağanüstü bir yolculuğun parçası olmak için özgeçmişinizi bize gönderin.",
+    "applyLabel": "Başvur",
+    "items": [
+      { "title": "Senior .NET Developer", "team": "Yazılım", "location": "İstanbul", "type": "Tam zamanlı" },
+      { "title": "Front-end Developer", "team": "Yazılım", "location": "İstanbul", "type": "Tam zamanlı" }
+    ],
+    "cta": "Mail gönder",
+    "mailSubject": "İş başvurusu"
+  }
+}

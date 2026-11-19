@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "title": "Özellikler",
+    "description": "Uçuş satışlarında rakipsiz esneklik: çoklu GDS araması, tüm ücret tipleri, ek hizmetler ve acenteler ile alt acenteler için güçlü araçlar."
+  },
+  "hero": {
+    "eyebrow": "Kalkışa Geç – Rotanı Belirle – Etkileşime Gir",
+    "title": "Uçuş satışlarında rakipsiz esneklik ve üst düzey kullanım kolaylığı",
+    "text": "Acentenizi, birden fazla GDS ve doğrudan havayolu bağlantısıyla sorunsuz şekilde entegre olan yeni nesil bir uçak bileti satış sistemiyle güçlendirin. Birden fazla IATA ve acente hesabı üzerinden {{airlines}} havayoluna erişerek müşterileriniz için en iyi uçuş seçeneklerine en hızlı şekilde ulaşın."
+  },
+  "advanced": {
+    "eyebrow": "Performans – Hassasiyet – Kârlı Büyüme",
+    "title": "Rekabette öne çıkmanızı sağlayan gelişmiş fonksiyonlar",
+    "items": [
+      "Kapsamlı uçuş arama altyapısı",
+      "Çoklu rota (multi-city) rezervasyon desteği",
+      "Çoklu IATA ve GDS entegrasyonu",
+      "Birden fazla havayolu ve PCC ile uyumlu çalışma",
+      "Maksimum esneklik için paket fiyat seçimi",
+      "Kabin sınıfı ve koltuk seçimi",
+      "Sorunsuz bilet değişikliği, iptal ve iade işlemleri"
+    ]
+  },
+  "fareTypes": {
+    "title": "Desteklenen ücret tipleri",
+    "intro": "Her yolcu segmentine kolaylıkla hitap edin.",
+    "groups": [
+      { "label": "Yolcu tipleri", "items": ["INF · Bebek", "CHD · Çocuk", "SRC · Yaşlı", "YTH / STU · Genç ve öğrenci"] },
+      { "label": "Özel kategoriler", "items": ["SEA · Denizci", "MIL · Askeri personel", "ITX · Tur operatörü", "LBR · Etnik yolcu"] },
+      { "label": "Ücret aileleri", "items": ["Yayınlanmış", "Kurumsal", "CAT25 / CAT35", "Anlaşmalı", "Charter", "Konsolidatör"] }
+    ]
+  },
+  "ancillaries": {
+    "title": "Yolcu deneyimini artıran katma değerli hizmetler",
+    "intro": "Sadece uçuş değil, eksiksiz bir seyahat deneyimi sunun.",
+    "items": [
+      "Ücretli koltuk seçimi ve sınıf yükseltme",
+      "Ek bagaj satışı",
+      "Öncelikli biniş ve lounge erişimi",
+      "Yiyecek ve içecek hizmetleri",
+      "Transfer ve uçuş içi hizmetler",
+      "Uçak içi alışveriş ve eğlence",
+      "Sağlık hizmetleri ve evcil hayvan taşıma desteği",
+      "Refakatsiz çocuklar için yardım hizmeti"
+    ],
+    "image": "/images/photos/cabin.jpg"
+  },
+  "agencyTools": {
+    "title": "Acenteler ve alt acenteler için güçlü araçlar",
+    "items": [
+      { "text": "Farklı havayollarına ait gidiş-dönüş biletleri tek işlemde zahmetsizce satın.", "figure": "Turntable" },
+      { "text": "IATA hesabınız altındaki alt acenteler tüm biletleme işlemlerini tek bir platformdan yönetebilir.", "figure": "Rebuild" },
+      { "text": "Tüm işlem ve aktiviteleri anlık izleyerek tam operasyonel şeffaflık sağlayın.", "figure": "Loupe" },
+      { "text": "BackOffice entegrasyonu sayesinde alt acenteler ve yolcular kullanılabilir kredi limitleriyle sorunsuz biletleme yapabilir.", "figure": "Drawer" }
+    ]
+  },
+  "revenue": {
+    "eyebrow": "Sadece bir platform değil, bir vizyon",
+    "title": "Gelirinizi artıracak yeni nesil teknolojiler",
+    "text": "AirviaTech'in dinamik satış ekranlarıyla biletleri alt acentelere ve kurumsal müşterilere özel fiyatlandırma modelleriyle kolayca dağıtın. Uluslararası seyahat acenteleri ve havayolları; toptancı, pazara özel, web ve kurumsal yayınlanmış ücretleri rahatlıkla sunarak küresel erişim ve yüksek kârlılık elde edebilir."
+  },
+  "closing": {
+    "title": "Rekabetin önünde kalın",
+    "text": "AirviaTech, yoğun rekabetin yaşandığı seyahat sektöründe acentenize ihtiyaç duyduğu avantajı sunmak için tasarlandı. Yeni gelir kaynakları oluşturun, operasyonlarınızı optimize edin ve müşterilerinize rakipsiz bir rezervasyon deneyimi yaşatın."
+  }
+}

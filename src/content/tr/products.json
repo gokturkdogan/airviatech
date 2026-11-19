@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "title": "Ürünlerimiz",
+    "description": "Seyahat teknolojilerinde yenilikçi çözümler: Aggregator, AirviaGo Charter, API, Acenta B2B, E-Ticaret B2C, Mobil Uygulama ve Kurumsal."
+  },
+  "hero": {
+    "eyebrow": "Seyahat teknolojilerinde yenilikçi çözümler",
+    "title": "Tek platform. Gökyüzünü satmanın yedi yolu.",
+    "text": "AirviaTech; seyahat acenteleri, tur operatörleri, kurumsal müşteriler ve bireysel gezginler için ileri teknolojiye dayalı, kapsamlı çözümler sunar. Gelişmiş altyapımız, esnek entegrasyon seçeneklerimiz ve kullanıcı odaklı yaklaşımımızla seyahat deneyimini en verimli hale getiriyoruz."
+  },
+  "closing": {
+    "title": "Seyahat teknolojisinin geleceğine adım atın",
+    "text": "Yenilikçi ve ölçeklenebilir çözümlerimizle seyahat sektörünü dönüştürün, işinizi bir üst seviyeye taşıyın. İhtiyaçlarınıza özel geliştirilmiş AirviaTech ürünlerini keşfedin."
+  },
+  "items": [
+    {
+      "slug": "airviatech-aggregator",
+      "name": "AirviaTech Aggregator",
+      "tagline": "En iyi havayolu içeriği çözümü",
+      "category": "İçerik dağıtımı",
+      "figure": "Settle",
+      "image": "/images/photos/global-network.jpg",
+      "headline": "Havayolu biletleme ve içerik dağıtımında geleceğin teknolojisi",
+      "subheadline": "Tüm havayollarına erişim. Tüm fiyatlara hakimiyet.",
+      "intro": [
+        "AirviaTech Aggregator; seyahat acenteleri, tur operatörleri ve online seyahat platformları için geliştirilen yeni nesil bir uçak bileti satış ve içerik dağıtım platformudur.",
+        "Tam hizmet ve düşük maliyetli taşıyıcılar dahil {{airlines}} havayoluna gerçek zamanlı entegrasyon sağlayan sistemimiz, size en rekabetçi ücretleri, dinamik fiyatlandırmayı ve geniş seyahat seçeneklerini sunar."
+      ],
+      "sections": [
+        {
+          "title": "Güçlü yönler ve katma değerler",
+          "layout": "grid",
+          "items": [
+            { "title": "Çoklu GDS ve NDC desteği", "text": "Birden fazla GDS ve NDC havayolu sistemiyle doğrudan bağlantı sayesinde yetkili acentelere özel ücretlere erişin. Farklı ülkelerdeki IATA ve acente hesaplarını tek merkezden yönetin; IATA NDC standartlarıyla tam uyumlu altyapıyla en zengin içerik ve ek hizmetlere ulaşın." },
+            { "title": "Dinamik fiyatlandırma ve akıllı ücret optimizasyonu", "text": "Yapay zekâ destekli dinamik fiyatlandırma modelleri, anlaşmalı, yayımlanmış ve kurumsal tarifelerle entegrasyon ve sağlayıcılar arası anlık ücret karşılaştırması." },
+            { "title": "Kapsamlı filtreleme ve anında rezervasyon", "text": "Çoklu destinasyon, tek yön ve gidiş-dönüş seçenekleri, gerçek zamanlı müsaitlik ve anında onay, koltuk seçimi ve kabin sınıfı alternatifleri." },
+            { "title": "Markanıza özel API ve white-label", "text": "Mevcut sistemlerle sorunsuz entegrasyon sağlayan güçlü API'ler, B2B ve B2C için tam markalı white-label platformlar ve pazar segmentine göre esnek komisyon ve indirim politikaları." },
+            { "title": "Raporlama ve analiz", "text": "Satış, rezervasyon trendleri ve gelir performansı için gerçek zamanlı paneller, özelleştirilebilir raporlar ve yapay zekâ destekli pazar analizleri ile ücret tahminleri." }
+          ]
+        },
+        {
+          "title": "Sadece bilet değil, deneyim satarsınız",
+          "intro": "AirviaTech Aggregator biletleme ile sınırlı kalmaz — seyahat deneyimini zenginleştiren ek hizmetleri de sunar:",
+          "layout": "list",
+          "items": [
+            { "text": "Bagaj hakkı satın alma ve ücretli koltuk seçimi" },
+            { "text": "Öncelikli biniş ve lounge erişimi" },
+            { "text": "Uçakta yemek servisi ve eğlence seçenekleri" },
+            { "text": "Esnek iptal ve iade politikaları" },
+            { "text": "Kurumsal, öğrenci ve asker yolculara özel ücretler" }
+          ]
+        },
+        {
+          "title": "Kimlere değer katar?",
+          "layout": "grid",
+          "items": [
+            { "title": "Seyahat acenteleri ve OTA'lar", "text": "Rezervasyonları kolaylaştırın, gelirinizi maksimize edin ve küresel ölçekte büyüyün." },
+            { "title": "Tur operatörleri", "text": "Uçuşları tatil paketleriyle sorunsuzca birleştirin." },
+            { "title": "Kurumsal seyahat yöneticileri", "text": "Gerçek zamanlı verilerle en avantajlı iş seyahati fırsatlarına erişin." },
+            { "title": "Havayolları ve konsolidatörler", "text": "Farklı pazarlarda dağıtım ağınızı genişletin ve fiyatlandırmanızı optimize edin." }
+          ]
+        },
+        {
+          "title": "Neden AirviaTech Aggregator?",
+          "layout": "list",
+          "items": [
+            { "text": "Hızlı yanıt süreleri ve gerçek zamanlı müsaitlik kontrolü" },
+            { "text": "Çoklu GDS ve doğrudan havayolu entegrasyonları" },
+            { "text": "Yapay zekâ destekli ücret analizi ve dinamik fiyatlandırma" },
+            { "text": "Kullanıcı dostu arayüz ve sezgisel deneyim (UI/UX)" },
+            { "text": "Kapsamlı teknik destek ve size özel hesap yöneticisi" }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "Tek platformla daha fazla satış, daha hızlı büyüme",
+        "text": "AirviaTech Aggregator; global içerik erişimi, akıllı fiyatlama ve yüksek performanslı rezervasyon altyapısını bir araya getirerek seyahat işletmelerine benzersiz bir rekabet avantajı sunar."
+      }
+    },
+    {
+      "slug": "airviago-charter",
+      "name": "AirviaGo Charter",
+      "tagline": "Charter ve blok koltuk yönetim platformu",
+      "category": "Charter operasyonları",
+      "figure": "Slow",
+      "image": "/images/photos/charter.jpg",
+      "headline": "Charter ve blok koltuk operasyonlarında yeni nesil yönetim yazılımı",
+      "subheadline": "Charter operasyon yönetiminde yeni bir çağ",
+      "intro": [
+        "Havacılık ve seyahat sektörü için özel olarak geliştirilen AirviaGo Charter; envanter yönetimi, satış süreçleri ve operasyonları tek bir platformda birleştirerek charter brokerları ve tedarikçileri için devrim yaratıyor.",
+        "Uçuş planlamasından biletlemeye kadar tüm süreci dijitalleştiren AirviaGo Charter, charter operasyonlarını çok daha verimli ve kârlı hale getiriyor."
+      ],
+      "sections": [
+        {
+          "title": "Öne çıkan özellikler ve faydalar",
+          "intro": "Verimliliği en üst düzeye çıkarın, karmaşayı ortadan kaldırın.",
+          "layout": "grid",
+          "items": [
+            { "title": "Uçuş ve envanter yönetimi", "text": "Uçaklarınızı ve koltuk envanterinizi entegre edin. Farklı destinasyonlara, farklı tarihlerde uçuş planlayın; koltuk sınıfı, adet ve fiyat bilgilerini tanımlayın." },
+            { "title": "Toplu veri yükleme", "text": "Excel dosyanızdaki uçuş bilgilerini sisteme tek seferde yükleyin." },
+            { "title": "Geniş satış ağı", "text": "API entegrasyonu ve AirviaTech Agent sistemi üzerinden alt acentelere doğrudan satış yapın." },
+            { "title": "Rezervasyon ve biletleme yönetimi", "text": "Gelen rezervasyon ve biletleme taleplerini AirviaGo paneli üzerinden zahmetsizce yönetin." },
+            { "title": "Koltuk ve kapasite takibi", "text": "Gerçek zamanlı koltuk durumu takibi yapın ve operasyonel verimliliği artırın." },
+            { "title": "Esnek operasyonlar", "text": "Değişiklik, iptal ve iade işlemlerini kolayca yönetin." },
+            { "title": "Raporlama ve analiz", "text": "Satış performansınızı ve operasyonel verilerinizi gelişmiş araçlarla takip edin." },
+            { "title": "Satış kanalı yönetimi", "text": "Farklı satış kanallarını tanımlayın ve tüm süreci tek merkezden kontrol edin." }
+          ]
+        },
+        {
+          "title": "Neden AirviaGo Charter?",
+          "intro": "Anlık veriler sayesinde operasyonel kontrol sizde — kapasite yönetiminde yeni bir seviye.",
+          "layout": "list",
+          "items": [
+            { "text": "Kullanımı kolay, hızlı entegrasyon" },
+            { "text": "Uçtan uca dijital charter operasyon yönetimi" },
+            { "text": "API ve acente satış ağı entegrasyonu" },
+            { "text": "Esnek ve ölçeklenebilir altyapı" }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "Charter operasyonlarınızı dijitale taşıyın",
+        "text": "Hemen bizimle iletişime geçin, charter operasyonlarınızda fark yaratmaya başlayın."
+      }
+    },
+    {
+      "slug": "airviatech-api",
+      "name": "AirviaTech API",
+      "tagline": "Özelleştirilmiş entegrasyon ve API hizmetleri",
+      "category": "Geliştiriciler",
+      "figure": "Relay",
+      "image": "/images/photos/api.jpg",
+      "headline": "Kendi seyahat deneyiminizi tasarlayın, işinize güç katın",
+      "subheadline": "Güçlü ve modern bir entegrasyon altyapısı",
+      "intro": [
+        "AirviaTech API, çevrim içi bilet satış operasyonlarınızı hızlandırmak için tasarlanmış güçlü ve modern bir entegrasyon altyapısı sunar.",
+        "Karmaşık sistemlerle zaman kaybetmek yerine, esnek ve geliştirici dostu platformumuz sayesinde en iyi kullanıcı deneyimini sunmaya odaklanın."
+      ],
+      "code": {
+        "title": "Tek istek. Tüm kaynaklar.",
+        "lines": [
+          "POST /v1/air/search",
+          "{",
+          "  \"origin\": \"IST\",",
+          "  \"destination\": \"LHR\",",
+          "  \"departure\": \"2026-12-18\",",
+          "  \"passengers\": { \"ADT\": 2, \"CHD\": 1 },",
+          "  \"sources\": [\"NDC\", \"GDS\", \"LCC\", \"CHARTER\"]",
+          "}"
+        ]
+      },
+      "sections": [
+        {
+          "title": "Doğru entegrasyonun gücünü keşfedin",
+          "layout": "grid",
+          "items": [
+            { "title": "Geliştiriciler için esnek entegrasyon", "text": "Sade ve anlaşılır dokümantasyon sayesinde projelerinizi hızla hayata geçirin; API'yi sistemlerinize kolayca uyarlayın." },
+            { "title": "Düşük maliyet, düşük risk", "text": "Birden fazla GDS ve havayolu entegrasyonunu tek çözümde birleştirerek operasyonel riskleri azaltın, geliştirme ve bakım maliyetlerini en aza indirin." },
+            { "title": "Hızlı ve sorunsuz entegrasyon", "text": "Yeni nesil mimarimizle AirviaTech servislerini sistemlerinize hızlı ve güvenli şekilde entegre edin; zaman kaybetmeden kullanıma başlayın." },
+            { "title": "Entegrasyonun ötesinde: deneyim tasarlayın", "text": "Ön yüzünüzü, hizmet akışınızı ve satış stratejinizi tam olarak istediğiniz gibi özelleştirin." }
+          ]
+        },
+        {
+          "title": "Geliştiricilere sağladığı avantajlar",
+          "layout": "steps",
+          "items": [
+            { "title": "Hızlı başlangıç", "text": "Tek bir API entegrasyonuyla online bilet satışına zahmetsizce başlayın." },
+            { "title": "Modüler mimari", "text": "Yalnızca ihtiyacınız olan servisleri seçin, sisteminizi yalın tutun." },
+            { "title": "Ölçeklenebilir ve güvenilir", "text": "Yüksek trafik altında bile kesintisiz çalışacak şekilde tasarlandı." },
+            { "title": "Kapsamlı destek", "text": "Adım adım rehberler, örnek istekler ve her aşamada yanınızda olan teknik ekip." }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "Dijital dönüşümünüze güç katın",
+        "text": "AirviaTech API sadece teknik bir araç değil — dijital inovasyon yolculuğunuzda stratejik bir iş ortağınızdır. Müşteri deneyimini yeniden tanımlayın ve seyahat teknolojilerinin geleceğine liderlik edin."
+      }
+    },
+    {
+      "slug": "airviatech-agent",
+      "name": "AirviaTech Acenta B2B",
+      "tagline": "B2B uygulamalar",
+      "category": "B2B",
+      "figure": "Rebuild",
+      "image": "/images/photos/b2b.jpg",
+      "headline": "Güçlü B2B seyahat çözümleri",
+      "subheadline": "Seyahat acenteleri için entegre, esnek ve kârlı araçlar",
+      "intro": [
+        "AirviaTech Agent, seyahat acenteleri ve online seyahat siteleri (OTA) için özel olarak tasarlanmış yeni nesil bir B2B rezervasyon platformudur.",
+        "Tüm seyahat ürünlerini tek bir çatı altında birleştirerek satış ağınızı büyütmenizi ve operasyonlarınızı zahmetsizce yönetmenizi sağlar."
+      ],
+      "sections": [
+        {
+          "title": "Tüm seyahat ürünleri tek sistemde",
+          "layout": "list",
+          "items": [
+            { "text": "Tüm rezervasyon süreçlerinizi global GDS sistemleri, LCC'ler, NDC bağlantıları ve üçüncü parti XML/API entegrasyonlarıyla bağlantılı tek bir arayüzden yönetin." },
+            { "text": "Uçak biletine ek olarak çok yakında otel, araç kiralama, transfer, vize ve tur paketlerini de bir arada sunun." }
+          ]
+        },
+        {
+          "title": "Tüm alt acentelerinizi tek platformdan yönetin",
+          "layout": "grid",
+          "items": [
+            { "title": "Özel erişim ve fiyatlandırma", "text": "Her acenteniz için ayrı yetkilendirme ve fiyat politikaları tanımlayın." },
+            { "title": "Çok katmanlı dağıtım", "text": "Alt bayi ağınızı kolayca yönetin, dinamik bir satış yapısı oluşturun." },
+            { "title": "Gerçek zamanlı takip", "text": "Tüm rezervasyon işlemlerini anlık olarak izleyin ve yönetin." }
+          ]
+        },
+        {
+          "title": "Tüm tedarikçileri tek platformda birleştirin",
+          "layout": "list",
+          "items": [
+            { "text": "IATA'lı havayolları, charter operatörleri, blok koltuk sağlayıcıları ve anlaşmalı havayollarınızla doğrudan bağlantı kurun." },
+            { "text": "Acenteleriniz AirviaGo'nun özel koltuk envanterine ve en rekabetçi piyasa fiyatlarına ilk elden erişir." }
+          ]
+        },
+        {
+          "title": "B2B rezervasyon altyapısıyla dijitalleşin",
+          "intro": "Acentelerinizi web tabanlı, kullanıcı dostu bir rezervasyon motoruyla güçlendirin:",
+          "layout": "grid",
+          "items": [
+            { "title": "Gerçek zamanlı fiyat", "text": "Tüm kaynaklarda canlı fiyat ve müsaitlik bilgisi." },
+            { "title": "Anında rezervasyon", "text": "Anında rezervasyon ve otomatik onay." },
+            { "title": "Komisyon takibi", "text": "Yerleşik komisyon takibi ve raporlaması." },
+            { "title": "Kendi markanız", "text": "Kendi logonuzla markalanabilir arayüz." }
+          ]
+        },
+        {
+          "title": "Tek altyapıyla uçtan uca çözümler",
+          "intro": "B2B rezervasyon modülümüz tüm iş ortaklarınızı ve dağıtım ağınızı tek platformda buluşturur:",
+          "layout": "list",
+          "items": [
+            { "text": "Hızlı büyüme için genişleyen acente ağı" },
+            { "text": "Tam kâr kontrolüyle kârlılığa odaklı satış yapısı" },
+            { "text": "Kapsamlı raporlama ve analiz panelleri" }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "AirviaTech ile global B2B ağına adım atın",
+        "text": "B2B kanalınızı yönetmek ve büyütmek hiç bu kadar kolay olmamıştı. AirviaTech Agent ile dijital altyapınızı güçlendirin, iş ortaklığı ağınızı genişletin ve kârlılığınızı artırın."
+      }
+    },
+    {
+      "slug": "airviatech-e-commerce",
+      "name": "AirviaTech E-Ticaret",
+      "tagline": "B2C uygulamalar",
+      "category": "B2C",
+      "figure": "Basket",
+      "image": "/images/photos/b2c.jpg",
+      "headline": "B2C seyahat satışında yeni nesil çözümler",
+      "subheadline": "Online rezervasyon sürecini müşteri odaklı ve kusursuz hale getirin",
+      "intro": [
+        "AirviaTech E-Ticaret, bireysel son kullanıcılara ulaşmak isteyen seyahat markaları için geliştirilmiş güçlü bir B2C satış platformudur.",
+        "Modern, mobil uyumlu ve sezgisel arayüzü sayesinde rezervasyon sürecini müşterileriniz için hızlı, kolay ve güvenli hale getirir."
+      ],
+      "sections": [
+        {
+          "title": "Dönüşüm için tasarlandı",
+          "layout": "grid",
+          "items": [
+            { "title": "Kolay ve sezgisel kullanım", "text": "Temiz ve tamamen mobil uyumlu rezervasyon arayüzüyle dönüşüm oranlarınızı artırın; kullanıcılarınız rezervasyonu tek adımda tamamlasın." },
+            { "title": "Çok dil ve çok para birimi", "text": "Çok dilli seçeneklerle global erişim, dinamik para birimiyle lokal fiyatlandırma ve bölgesel kampanya yönetimi." },
+            { "title": "Hızlı ve güvenli işlem", "text": "Gerçek zamanlı fiyat ve müsaitlik, SSL korumalı ödeme altyapısı, anında onay ve minimum adımlı kullanıcı deneyimi." },
+            { "title": "Zengin içerik ve ürün yönetimi", "text": "Tedarikçilerden gelen dinamik içerik, görseller ve destinasyon bilgileri; tur paketleri veya uçuş + otel kombinasyonları." }
+          ]
+        },
+        {
+          "title": "Uçtan uca entegrasyon, tüm kontrol sizde",
+          "layout": "list",
+          "items": [
+            { "text": "AirviaTech E-Ticaret; NDC, GDS ve LCC dahil önde gelen seyahat içerik kaynaklarıyla sorunsuz çalışır." },
+            { "text": "Güçlü teknoloji arka planda operasyonları yürütürken siz tamamen müşteri deneyimine odaklanırsınız." }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "Müşteri deneyimini bir üst seviyeye taşıyın",
+        "text": "Markanızı dijitalleştirin, hedef kitlenizle doğrudan bağ kurun ve satışlarınızı artırın. AirviaTech E-Ticaret ile B2C satış kanalınızda fark yaratın."
+      }
+    },
+    {
+      "slug": "airviatech-app",
+      "name": "AirviaTech Mobil Uygulama",
+      "tagline": "Mobil uygulamalar",
+      "category": "Mobil",
+      "figure": "Phone",
+      "image": "/images/photos/mobile.jpg",
+      "headline": "Akıllı seyahat çözümleri cebinizde",
+      "subheadline": "Uçtan uca mobil seyahat deneyimi",
+      "intro": [
+        "Günümüzde kullanıcılar seyahatlerini istedikleri zaman ve her yerden planlamayı bekliyor. AirviaTech Mobil Uygulaması, hem son kullanıcılar hem de iş ortakları için tasarlanmış yenilikçi çözümleriyle seyahat deneyimini avucunuzun içine taşıyor.",
+        "Hızlı, güvenli ve sezgisel arayüzüyle birinci sınıf mobil seyahat deneyimini müşterilerinize sunun."
+      ],
+      "sections": [
+        {
+          "title": "Her zaman, her yerden erişim",
+          "intro": "AirviaTech'in mobil uygulamalarıyla kullanıcılarınız:",
+          "layout": "list",
+          "items": [
+            { "text": "Uçuşları kolayca arayabilir ve karşılaştırabilir" },
+            { "text": "Rezervasyonlarını anında tamamlayabilir" },
+            { "text": "Bilet ve seyahat detaylarını mobil cihazlarından yönetebilir" },
+            { "text": "Android ve iOS için tam optimize uygulamalar kullanabilir" }
+          ]
+        },
+        {
+          "title": "Kesintisiz performans, güvenli altyapı",
+          "layout": "grid",
+          "items": [
+            { "title": "Hız", "text": "Hızlı açılan sayfalar ve sade kullanıcı arayüzleri." },
+            { "title": "Güçlü altyapı", "text": "Güçlü altyapı ile kesintisiz işlem akışı." },
+            { "title": "Veri koruması", "text": "En güncel güvenlik protokolleriyle veri koruması." }
+          ]
+        },
+        {
+          "title": "Markanıza özel B2C mobil uygulama",
+          "intro": "Markanıza özel bir mobil uygulama mı arıyorsunuz? Ekibimiz işletmenizin ihtiyaçlarına göre özel B2C seyahat uygulamaları geliştirir:",
+          "layout": "list",
+          "items": [
+            { "text": "Logonuz, renkleriniz ve içeriklerinizle tam marka uyumu" },
+            { "text": "Mevcut sistemlerinizle sorunsuz entegrasyon" },
+            { "text": "Bildirimler, sadakat sistemleri ve kullanıcı profilleri" }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "Geleceğin seyahat deneyimi artık cebinizde",
+        "text": "Mobil artık bir seçenek değil, ana platform. Kesintisiz, erişilebilir ve verimli bir deneyim sunun; müşteri sadakatini artırın, dönüşüm oranlarınızı yükseltin."
+      }
+    },
+    {
+      "slug": "airviatech-enterprise",
+      "name": "AirviaTech Kurumsal",
+      "tagline": "Kurumsal satış platformu",
+      "category": "Kurumsal seyahat",
+      "figure": "Stack",
+      "image": "/images/photos/corporate.jpg",
+      "headline": "Kurumsal seyahatte dijital dönüşüm",
+      "subheadline": "Akıllı işletmelerin tercihi: akıllı seyahat yönetimi",
+      "intro": [
+        "AirviaTech Kurumsal, seyahat acentelerinin kurumsal müşterilerine özel hizmetler sunabilmesi için geliştirilmiş güçlü bir satış ve yönetim platformudur.",
+        "Esnek yapısı sayesinde hem seyahat yöneticilerine hem de çalışanlara şirket politikalarıyla uyumlu bir rezervasyon deneyimi sunar — verimlilik, kontrol ve maliyet avantajlarını tek platformda birleştirir."
+      ],
+      "sections": [
+        {
+          "title": "Kurumsal seyahatte yeni standardı belirliyoruz",
+          "intro": "Birden fazla lokasyon, onlarca çalışan, sıkışık takvimler ve sıkı bütçeler… AirviaTech Kurumsal bu karmaşıklığı merkezi yönetimle sadeleştirir:",
+          "layout": "list",
+          "items": [
+            { "text": "Uçuş, otel ve transfer gibi tüm hizmetleri tek platformdan yönetin" },
+            { "text": "Şirket politikalarınıza özel rezervasyon akışları oluşturun" },
+            { "text": "Rol bazlı erişim, onay hiyerarşisi ve gelişmiş güvenlikle tam kontrol sağlayın" }
+          ]
+        },
+        {
+          "title": "Seyahat yöneticisinin ihtiyaç duyduğu her şey",
+          "layout": "grid",
+          "items": [
+            { "title": "Politika uyumu ve onay akışları", "text": "Sistem şirket politikalarını tanır, sonuçları buna göre filtreler ve onayı otomatikleştirir; yüksek bütçeli seyahatler için çok seviyeli akışlar ve anlık bildirimler." },
+            { "title": "Detaylı arama ve hızlı işlem", "text": "Detaylı arama filtreleri ve hızlı rezervasyon akışıyla politikaya uygun seçenekler saniyeler içinde." },
+            { "title": "Ödeme ve harcama yönetimi", "text": "Şirket kartları, departman bütçeleri veya çalışan kartları; otomatik harcama kaydı ve seyahat sonrası geri ödeme süreçleri." },
+            { "title": "Seyahat planı ve bildirimler", "text": "Google ve Outlook takvim senkronizasyonu, hatırlatıcılar, check-in bildirimleri ve CTM'ler için merkezi yönetim." },
+            { "title": "İzleme, raporlama ve analiz", "text": "Detaylı harcama raporları, bütçe tahminleri, maliyet düşürücü içgörüler ve iç denetim standartlarıyla tam uyum." }
+          ]
+        }
+      ],
+      "closing": {
+        "title": "Kurumsal seyahat deneyiminizi dönüştürün",
+        "text": "AirviaTech Kurumsal yalnızca bir rezervasyon platformu değil — şirketinizin seyahat stratejisini optimize eden akıllı bir yönetim aracıdır. Çalışan memnuniyetini artırın, maliyetleri azaltın ve yönetim süreçlerini güçlendirin."
+      }
+    }
+  ]
+}

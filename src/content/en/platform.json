@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "title": "The Platform",
+    "description": "Next-generation flight system and smart airline ticketing platform connecting all airlines and GDSs into a single platform."
+  },
+  "hero": {
+    "eyebrow": "The future of travel starts today",
+    "title": "Next-generation flight system. Smart airline ticketing platform.",
+    "text": "AirviaTech is a powerful platform designed for travel agencies and tour operators, revolutionizing airline ticket sales with modern, seamless solutions. Whether you have an IATA license or not, our technology connects all airlines and GDSs into a single platform, offering fast, secure and efficient booking."
+  },
+  "advantages": {
+    "eyebrow": "More airlines, smarter solutions",
+    "title": "With our advanced GDS and direct airline integrations, you gain:",
+    "items": [
+      { "title": "{{airlines}} airlines", "text": "Access to airlines worldwide from a single platform.", "figure": "Dish" },
+      { "title": "Seamless GDS connectivity", "text": "Travelport, Sabre, Amadeus and Sirena for unlimited options.", "figure": "Patch" },
+      { "title": "NDC, LCC & direct APIs", "text": "Low-cost carrier and direct airline APIs for a broader inventory.", "figure": "Router" },
+      { "title": "Multi-IATA & multi-agency", "text": "Multi-IATA and multi-agency support for global reach.", "figure": "Lockers" }
+    ]
+  },
+  "stats": ["yearsExperience", "dailyQueries", "launchedProjects"],
+  "onePlatform": {
+    "eyebrow": "One platform, unlimited possibilities",
+    "title": "Seamless ticketing for the airlines your customers love.",
+    "text": "We provide seamless ticketing for Turkish Airlines, AJet, Pegasus, SunExpress, Air France, KLM, Aegean, Emirates, Singapore Airlines and more. With a single, integrated structure, we simplify your entire ticketing process."
+  },
+  "ecosystem": {
+    "eyebrow": "AirviaTech ecosystem",
+    "title": "Where technology meets trust",
+    "subtitle": "You grow your business, we manage the technology",
+    "text": "Thanks to our simple, secure and innovative solutions, you can focus on growth while offering your customers the best experience.",
+    "items": [
+      "Manage all GDS and airline tickets from a single interface — cut costs and save time.",
+      "Expand your reach in local and global markets and increase your sales.",
+      "Gain a competitive edge with wide flight options and the best fares.",
+      "Accept payments in USD, EUR, GBP, TRY, RUB and many more currencies.",
+      "Offer multilingual ticketing support for your international customers."
+    ],
+    "outro": "Discover the future of travel with AirviaTech today.",
+    "image": "/images/ecosystem/map-2026.jpg"
+  }
+}

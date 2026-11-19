@@ -1,0 +1,678 @@
+{
+  "company": {
+    "name": "AirviaTech",
+    "legalName": "AirviaTech Teknoloji A.Ş.",
+    "tagline": "Wings of Technology",
+    "vision": "One API. All Airlines.",
+    "foundedYear": 2005,
+    "ceo": "Serkan Selen"
+  },
+  "contact": {
+    "phone": "+90 216 222 1 737",
+    "phoneHref": "tel:+902162221737",
+    "email": "info@airviatech.com",
+    "careersEmail": "info@airviatech.com",
+    "address": {
+      "building": "Dijitalpark Teknokent",
+      "street": "Barbaros Mah. Şebboy Sk. No: 4/1 İç Kapı No: 2",
+      "city": "34634 Ataşehir / İstanbul"
+    },
+    "mapUrl": "https://maps.google.com/?q=Dijitalpark+Teknokent+Ata%C5%9Fehir+Istanbul",
+    "offices": [
+      {
+        "city": "Istanbul",
+        "type": "hq",
+        "lat": 40.99,
+        "lon": 29.12
+      },
+      {
+        "city": "Antalya",
+        "type": "branch",
+        "lat": 36.9,
+        "lon": 30.7
+      },
+      {
+        "city": "Dubai",
+        "type": "branch",
+        "lat": 25.2,
+        "lon": 55.27
+      },
+      {
+        "city": "London",
+        "type": "branch",
+        "lat": 51.5,
+        "lon": -0.12
+      }
+    ]
+  },
+  "social": [
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/company/airviatech"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/airviatech"
+    }
+  ],
+  "tokens": {
+    "airlines": "950+",
+    "dailyQueries": "10M+",
+    "dailyTickets": "15,000+",
+    "years": "21",
+    "integrations": "90+",
+    "projects": "200+"
+  },
+  "stats": {
+    "yearsExperience": {
+      "value": 21,
+      "suffix": "",
+      "unit": "yr"
+    },
+    "annualQueries": {
+      "value": 450,
+      "suffix": "M",
+      "unit": ""
+    },
+    "airlineIntegrations": {
+      "value": 90,
+      "suffix": "+",
+      "unit": ""
+    },
+    "dailyQueries": {
+      "value": 10,
+      "suffix": "M",
+      "unit": ""
+    },
+    "launchedProjects": {
+      "value": 200,
+      "suffix": "+",
+      "unit": ""
+    },
+    "airlineReach": {
+      "value": 950,
+      "suffix": "+",
+      "unit": ""
+    },
+    "dailyTickets": {
+      "value": 15000,
+      "suffix": "+",
+      "unit": ""
+    },
+    "uptime": {
+      "value": 99.9,
+      "suffix": "%",
+      "unit": "",
+      "decimals": 1
+    }
+  },
+  "badges": [
+    {
+      "name": "IATA ARM System Provider",
+      "image": "/images/badges/iata-arm.png"
+    },
+    {
+      "name": "PCI-DSS Compliant",
+      "image": "/images/badges/pci-dss.png"
+    },
+    {
+      "name": "Amazon Web Services",
+      "image": "/images/badges/aws.png"
+    }
+  ],
+  "airlines": [
+    {
+      "name": "Turkish Airlines",
+      "logo": "/images/airlines/thy.png"
+    },
+    {
+      "name": "AJet",
+      "logo": "/images/airlines/ajet.png"
+    },
+    {
+      "name": "Pegasus",
+      "logo": "/images/airlines/pegasus.png"
+    },
+    {
+      "name": "SunExpress",
+      "logo": "/images/airlines/sunexpress.png"
+    },
+    {
+      "name": "Emirates",
+      "logo": "/images/airlines/emirates.png"
+    },
+    {
+      "name": "Qatar Airways",
+      "logo": "/images/airlines/qatar.png"
+    },
+    {
+      "name": "Singapore Airlines",
+      "logo": "/images/airlines/singaporeairlines.png"
+    },
+    {
+      "name": "Air France",
+      "logo": "/images/airlines/airfrance.png"
+    },
+    {
+      "name": "Lufthansa",
+      "logo": "/images/airlines/lufthansa.png"
+    },
+    {
+      "name": "British Airways",
+      "logo": "/images/airlines/britishairways.png"
+    },
+    {
+      "name": "Saudia",
+      "logo": "/images/airlines/saudia.png"
+    },
+    {
+      "name": "flydubai",
+      "logo": "/images/airlines/flydubai.png"
+    },
+    {
+      "name": "Air Arabia",
+      "logo": "/images/airlines/airarabia.png"
+    },
+    {
+      "name": "United",
+      "logo": "/images/airlines/united.png"
+    },
+    {
+      "name": "American Airlines",
+      "logo": "/images/airlines/american.png"
+    },
+    {
+      "name": "Aegean",
+      "logo": "/images/airlines/aegean.png"
+    },
+    {
+      "name": "Vueling",
+      "logo": "/images/airlines/vueling.png"
+    },
+    {
+      "name": "Condor",
+      "logo": "/images/airlines/condor.png"
+    },
+    {
+      "name": "Transavia",
+      "logo": "/images/airlines/transavia.png"
+    },
+    {
+      "name": "Swiss",
+      "logo": "/images/airlines/swiss.png"
+    },
+    {
+      "name": "Austrian",
+      "logo": "/images/airlines/austrian.png"
+    },
+    {
+      "name": "Iberia",
+      "logo": "/images/airlines/iberia.png"
+    },
+    {
+      "name": "Ethiopian",
+      "logo": "/images/airlines/ethiopian.png"
+    },
+    {
+      "name": "Oman Air",
+      "logo": "/images/airlines/omanair.png"
+    },
+    {
+      "name": "Air Astana",
+      "logo": "/images/airlines/airastana.png"
+    },
+    {
+      "name": "Azerbaijan Airlines",
+      "logo": "/images/airlines/azerbaycan.png"
+    },
+    {
+      "name": "Jazeera",
+      "logo": "/images/airlines/jazeera.png"
+    },
+    {
+      "name": "flynas",
+      "logo": "/images/airlines/flynas.png"
+    },
+    {
+      "name": "SalamAir",
+      "logo": "/images/airlines/salamair.png"
+    },
+    {
+      "name": "IndiGo",
+      "logo": "/images/airlines/indigo.png"
+    },
+    {
+      "name": "Freebird",
+      "logo": "/images/airlines/freebird.png"
+    },
+    {
+      "name": "Southwind",
+      "logo": "/images/airlines/southwind.png"
+    },
+    {
+      "name": "Malaysia Airlines",
+      "logo": "/images/airlines/malaysia.png"
+    },
+    {
+      "name": "Qantas",
+      "logo": "/images/airlines/qantas.png"
+    },
+    {
+      "name": "JAL",
+      "logo": "/images/airlines/jal.png"
+    },
+    {
+      "name": "Asiana",
+      "logo": "/images/airlines/asiana.png"
+    },
+    {
+      "name": "LATAM",
+      "logo": "/images/airlines/latam.png"
+    },
+    {
+      "name": "Avianca",
+      "logo": "/images/airlines/avianca.png"
+    },
+    {
+      "name": "SAS",
+      "logo": "/images/airlines/sas.png"
+    },
+    {
+      "name": "LOT",
+      "logo": "/images/airlines/lot.png"
+    },
+    {
+      "name": "Brussels Airlines",
+      "logo": "/images/airlines/brussels.png"
+    },
+    {
+      "name": "Croatia Airlines",
+      "logo": "/images/airlines/croatia.png"
+    },
+    {
+      "name": "Czech Airlines",
+      "logo": "/images/airlines/csa.png"
+    },
+    {
+      "name": "Olympic Air",
+      "logo": "/images/airlines/olympic.png"
+    },
+    {
+      "name": "MEA",
+      "logo": "/images/airlines/mea.png"
+    },
+    {
+      "name": "PIA",
+      "logo": "/images/airlines/pia.png"
+    },
+    {
+      "name": "SriLankan",
+      "logo": "/images/airlines/srilankan.png"
+    },
+    {
+      "name": "Vietnam Airlines",
+      "logo": "/images/airlines/vietnam.png"
+    },
+    {
+      "name": "Southwest",
+      "logo": "/images/airlines/southwest.png"
+    },
+    {
+      "name": "Aeroflot",
+      "logo": "/images/airlines/aeroflot.png"
+    },
+    {
+      "name": "S7",
+      "logo": "/images/airlines/s7.png"
+    },
+    {
+      "name": "Ural Airlines",
+      "logo": "/images/airlines/ural.png"
+    },
+    {
+      "name": "Pobeda",
+      "logo": "/images/airlines/pobeda.png"
+    },
+    {
+      "name": "Red Wings",
+      "logo": "/images/airlines/redwings.png"
+    },
+    {
+      "name": "Air Samarkand",
+      "logo": "/images/airlines/airsemarkand.png"
+    },
+    {
+      "name": "FlyArystan",
+      "logo": "/images/airlines/flyaristan.png"
+    },
+    {
+      "name": "Fly Baghdad",
+      "logo": "/images/airlines/flybagdat.png"
+    },
+    {
+      "name": "Fly Erbil",
+      "logo": "/images/airlines/flyerbil.png"
+    },
+    {
+      "name": "Iraqi Airways",
+      "logo": "/images/airlines/iraqiairways.png"
+    },
+    {
+      "name": "Cham Wings",
+      "logo": "/images/airlines/chamwings.png"
+    },
+    {
+      "name": "flyadeal",
+      "logo": "/images/airlines/flydeal.png"
+    },
+    {
+      "name": "FlyOne",
+      "logo": "/images/airlines/flyone.png"
+    },
+    {
+      "name": "HiSky",
+      "logo": "/images/airlines/hisky.png"
+    },
+    {
+      "name": "Kam Air",
+      "logo": "/images/airlines/kamair.png"
+    },
+    {
+      "name": "Fly Kıbrıs",
+      "logo": "/images/airlines/flykibris.png"
+    },
+    {
+      "name": "Mavi Gök",
+      "logo": "/images/airlines/mavigok.png"
+    },
+    {
+      "name": "Ukraine International",
+      "logo": "/images/airlines/ukrania.png"
+    },
+    {
+      "name": "Philippine Airlines",
+      "logo": "/images/airlines/philiphe.png"
+    }
+  ],
+  "gds": [
+    {
+      "name": "Amadeus",
+      "logo": "/images/airlines/amadeus.png"
+    },
+    {
+      "name": "Sabre",
+      "logo": "/images/airlines/sabre.png"
+    },
+    {
+      "name": "Travelport",
+      "logo": "/images/airlines/travelport.png"
+    },
+    {
+      "name": "Sirena",
+      "logo": "/images/airlines/sirena.png"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": "gds",
+      "items": [
+        "Amadeus",
+        "Travelport (Galileo)",
+        "Sabre",
+        "Sirena"
+      ]
+    },
+    {
+      "id": "ndc",
+      "items": [
+        "Aegean",
+        "Aeroflot",
+        "Air France",
+        "AJet",
+        "Condor",
+        "Emirates",
+        "Freebird",
+        "KLM",
+        "Olympic Air",
+        "Pegasus",
+        "Singapore Airlines",
+        "SunExpress",
+        "Turkish Airlines",
+        "Vueling"
+      ]
+    },
+    {
+      "id": "xml",
+      "items": [
+        "Air Samarkand",
+        "Air Arabia",
+        "AJet",
+        "Blue Air",
+        "Corendon",
+        "Fly Erbil",
+        "FlyArystan",
+        "Fly Baghdad",
+        "flydubai",
+        "FlyKHY",
+        "flynas",
+        "FlyOne",
+        "Freebird",
+        "HiSky",
+        "IndiGo",
+        "Jazeera",
+        "SalamAir",
+        "Southwind",
+        "Turkish Airlines",
+        "Transavia"
+      ]
+    },
+    {
+      "id": "ota",
+      "items": [
+        "AerTicket",
+        "AerTuerk",
+        "AirAys",
+        "AirlineTools",
+        "APG",
+        "AsiaLuxe",
+        "AviaCenter",
+        "BiletBank",
+        "BiletDükkanı",
+        "Buranus",
+        "CharterFly",
+        "Enuygun",
+        "GreenCode",
+        "Mystifly",
+        "Satrap",
+        "TravelFusion",
+        "TravelsUp",
+        "Travelist",
+        "Ucuzabilet",
+        "JustGoTrip"
+      ]
+    },
+    {
+      "id": "charter",
+      "items": [
+        "AirviaGo",
+        "AirlineTools",
+        "AirAys",
+        "AsiaLuxe",
+        "AviaCenter",
+        "Buranus",
+        "CharterScanners",
+        "GreenCode",
+        "JoinUp",
+        "Travelist",
+        "CharterFly",
+        "Travel Time"
+      ]
+    }
+  ],
+  "globe": {
+    "hub": {
+      "name": "Istanbul",
+      "lat": 41.01,
+      "lon": 28.98,
+      "code": "IST"
+    },
+    "destinations": [
+      {
+        "name": "London",
+        "lat": 51.5,
+        "lon": -0.12,
+        "code": "LHR"
+      },
+      {
+        "name": "Paris",
+        "lat": 48.86,
+        "lon": 2.35,
+        "code": "CDG"
+      },
+      {
+        "name": "Amsterdam",
+        "lat": 52.37,
+        "lon": 4.9,
+        "code": "AMS"
+      },
+      {
+        "name": "Frankfurt",
+        "lat": 50.11,
+        "lon": 8.68,
+        "code": "FRA"
+      },
+      {
+        "name": "Madrid",
+        "lat": 40.42,
+        "lon": -3.7,
+        "code": "MAD"
+      },
+      {
+        "name": "Athens",
+        "lat": 37.98,
+        "lon": 23.73,
+        "code": "ATH"
+      },
+      {
+        "name": "Antalya",
+        "lat": 36.9,
+        "lon": 30.7,
+        "code": "AYT"
+      },
+      {
+        "name": "Moscow",
+        "lat": 55.75,
+        "lon": 37.62,
+        "code": "SVO"
+      },
+      {
+        "name": "Baku",
+        "lat": 40.41,
+        "lon": 49.87,
+        "code": "GYD"
+      },
+      {
+        "name": "Tashkent",
+        "lat": 41.3,
+        "lon": 69.24,
+        "code": "TAS"
+      },
+      {
+        "name": "Samarkand",
+        "lat": 39.65,
+        "lon": 66.96,
+        "code": "SKD"
+      },
+      {
+        "name": "Almaty",
+        "lat": 43.24,
+        "lon": 76.89,
+        "code": "ALA"
+      },
+      {
+        "name": "Erbil",
+        "lat": 36.19,
+        "lon": 44.01,
+        "code": "EBL"
+      },
+      {
+        "name": "Dubai",
+        "lat": 25.2,
+        "lon": 55.27,
+        "code": "DXB"
+      },
+      {
+        "name": "Doha",
+        "lat": 25.29,
+        "lon": 51.53,
+        "code": "DOH"
+      },
+      {
+        "name": "Riyadh",
+        "lat": 24.71,
+        "lon": 46.68,
+        "code": "RUH"
+      },
+      {
+        "name": "Muscat",
+        "lat": 23.59,
+        "lon": 58.41,
+        "code": "MCT"
+      },
+      {
+        "name": "Cairo",
+        "lat": 30.04,
+        "lon": 31.24,
+        "code": "CAI"
+      },
+      {
+        "name": "Addis Ababa",
+        "lat": 9.03,
+        "lon": 38.74,
+        "code": "ADD"
+      },
+      {
+        "name": "Lagos",
+        "lat": 6.52,
+        "lon": 3.38,
+        "code": "LOS"
+      },
+      {
+        "name": "Delhi",
+        "lat": 28.61,
+        "lon": 77.21,
+        "code": "DEL"
+      },
+      {
+        "name": "Singapore",
+        "lat": 1.35,
+        "lon": 103.82,
+        "code": "SIN"
+      },
+      {
+        "name": "Tokyo",
+        "lat": 35.68,
+        "lon": 139.69,
+        "code": "HND"
+      },
+      {
+        "name": "New York",
+        "lat": 40.71,
+        "lon": -74.0,
+        "code": "JFK"
+      },
+      {
+        "name": "São Paulo",
+        "lat": -23.55,
+        "lon": -46.63,
+        "code": "GRU"
+      },
+      {
+        "name": "Sydney",
+        "lat": -33.87,
+        "lon": 151.21,
+        "code": "SYD"
+      }
+    ]
+  }
+}

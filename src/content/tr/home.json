@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "title": "Tek API. Tüm Havayolları.",
+    "description": "Uçak bileti satışında devrim yaratıyoruz. NDC, GDS, LCC ve charter entegrasyonlarıyla {{airlines}} havayoluna tek bir API üzerinden erişin."
+  },
+  "hero": {
+    "eyebrow": "IATA sertifikalı NDC Aggregator",
+    "titleTop": "Tek API.",
+    "titleBottom": "Tüm Havayolları.",
+    "subtitle": "Uçak bileti satışında devrim yaratıyoruz. Seyahat dünyası değişiyor — öne geçme zamanı.",
+    "primary": {
+      "label": "Ürünlerimiz",
+      "href": "/products"
+    },
+    "secondary": {
+      "label": "Detaylar",
+      "href": "/airviatech"
+    },
+    "channels": [
+      "NDC",
+      "GDS",
+      "LCC",
+      "XML",
+      "Charter",
+      "Blok koltuk"
+    ],
+    "lead": "AirviaTech · IATA sertifikalı NDC aggregator, İstanbul",
+    "pass": {
+      "passTitle": "Biniş kartı",
+      "passenger": "Yolcu",
+      "passengerValue": "Seyahat işletmeniz",
+      "fromLabel": "Nereden",
+      "toLabel": "Nereye",
+      "toCity": "Tüm havayolları",
+      "flight": "Uçuş",
+      "gate": "Kapı",
+      "seat": "Koltuk",
+      "boarding": "Biniş",
+      "boardingValue": "Şimdi",
+      "classLabel": "Sınıf",
+      "classValue": "IATA ARM"
+    }
+  },
+  "values": [
+    {
+      "title": "Deneyimli ve uzman kadro",
+      "text": "Havayolu satış teknolojilerinde öncü",
+      "icon": "users"
+    },
+    {
+      "title": "Uluslararası bağlantı gücü",
+      "text": "Dünyanın önde gelen havayolları tek platformda",
+      "icon": "globe"
+    },
+    {
+      "title": "Üstün performans",
+      "text": "Büyümeye uyumlu sistem mimarisi",
+      "icon": "server"
+    },
+    {
+      "title": "Geliştirici odaklı tasarım",
+      "text": "Kolay ve modüler API yapısı",
+      "icon": "code"
+    }
+  ],
+  "intro": {
+    "eyebrow": "Geliştir – Entegre Et – Büyüt",
+    "title": "Global seyahat çözümlerinde güvendiğiniz teknoloji ortağınız",
+    "subtitle": "Yenilikçi ve güçlü online uçak bileti yazılımı",
+    "text": "AirviaTech, seyahat acenteleri ve tur operatörlerine uçak bileti satış süreçlerinde yeni nesil bir teknoloji sunar. Tüm havayolları ve GDS sistemlerine tek bir güçlü platform üzerinden kesintisiz erişim imkânı sağlayarak biletleme operasyonlarınızı hızlandırır, verimliliğinizi artırır ve sınırsız bağlantı olanakları sunar."
+  },
+  "pillars": [
+    {
+      "kicker": "AirviaTech Gateway",
+      "title": "GDS ve doğrudan entegrasyonlarla {{airlines}} havayolu",
+      "text": "Travelport (Galileo), Sabre ve Amadeus gibi önde gelen GDS sistemlerinin yanı sıra Türk Hava Yolları, AJet, SunExpress, Pegasus, Air France, Emirates, Singapore Airlines ve daha birçok havayolu ile sorunsuz entegrasyon sağlayın.",
+      "tagline": "Tek entegrasyon, sonsuz fırsat",
+      "href": "/products/airviatech-aggregator",
+      "image": "/images/photos/airport-aerial.png"
+    },
+    {
+      "kicker": "AirviaTech",
+      "title": "Uçak bileti yönetim sistemi",
+      "text": "GDS terminalleri ve havayolu acente ekranlarındaki tüm biletleme operasyonlarınızı tek bir kolay kullanımlı sistemde birleştirin. AirviaTech'in gelişmiş yönetim altyapısıyla süreçlerinizi sadeleştirin, tam kontrol sağlayın ve operasyonel verimliliğinizi artırın.",
+      "tagline": "Tüm operasyonlar tek ekranda, kontrol sizde",
+      "href": "/airviatech/features",
+      "image": "/images/photos/departures-board.jpg"
+    },
+    {
+      "kicker": "AirviaTech",
+      "title": "Gelişmiş teknoloji altyapısı",
+      "text": "AirviaTech, esnek, hızlı ve güvenilir altyapısıyla uçtan uca entegre seyahat çözümleri sunar. Yeni nesil yazılım mimarimiz, operasyonel verimliliğinizi artırmak ve küresel ölçeklenebilirlik sağlamak için tasarlandı.",
+      "tagline": "Güçlü, esnek ve ölçeklenebilir altyapı",
+      "href": "/airviatech/infrastructure",
+      "image": "/images/photos/mission.jpg"
+    }
+  ],
+  "distribution": {
+    "eyebrow": "Yeni nesil havayolu dağıtımı",
+    "title": "Uçak bileti hizmet sağlayıcıları",
+    "text": "AirviaTech ile biletleme gücünüzü global ölçekte büyütün. GDS'ler ve doğrudan havayolu bağlantılarıyla çoklu IATA ve acente hesapları üzerinden binlerce havayoluna tek platformdan ulaşın. Üstelik her gün yeni havayollarını sisteme dahil ederek erişiminizi sürekli artırıyoruz."
+  },
+  "stats": [
+    "yearsExperience",
+    "annualQueries",
+    "airlineIntegrations"
+  ],
+  "certification": {
+    "eyebrow": "IATA ARM · System Provider for Sellers",
+    "title": "Türkiye'nin IATA sertifikalı ilk ve tek aggregator'ı",
+    "text": "AirviaTech, IATA'nın Airline Retailing Maturity (ARM) Index programı kapsamında \"System Provider for Sellers\" statüsüne layık görüldü. Bu statü, havayolu içeriklerinin şeffaf, tarafsız ve küresel standartlara uygun bir altyapıyla sunulduğunu belgeliyor.",
+    "cta": {
+      "label": "Duyuruyu okuyun",
+      "href": "/news/airviatech-becomes-the-first-iata-certified-aggregator-based-in-turkey"
+    },
+    "points": [
+      "Tarafsız ve bağımsız",
+      "Birçok havayolu ile NDC sertifikalı",
+      "Microsoft AI Cloud Partner",
+      "AWS Partner Network"
+    ]
+  },
+  "solutions": {
+    "eyebrow": "Acenteler için uçtan uca akıllı çözümler",
+    "title": "Seyahat teknolojisinde geleceğin kapılarını aralayın",
+    "text": "AirviaTech, seyahat sektörünü ileri teknoloji ve tam entegre altyapısıyla yeniden tanımlıyor. İster IATA yetkili bir acente, ister kurumsal seyahat sağlayıcısı, isterse B2C platform olun — iş modelinize özel, kesintisiz ve yüksek performanslı çözümler sunuyoruz.",
+    "items": [
+      {
+        "title": "B2B seyahat ve online uçak bileti satış sistemi",
+        "text": "Acentenizi güçlü ve ölçeklenebilir bir rezervasyon altyapısıyla destekleyin.",
+        "href": "/products/airviatech-agent",
+        "image": "/images/photos/corporate.jpg"
+      },
+      {
+        "title": "B2C seyahat ve online uçak bileti satış sistemi",
+        "text": "Son kullanıcıya kusursuz bir rezervasyon deneyimi sunun.",
+        "href": "/products/airviatech-e-commerce",
+        "image": "/images/photos/b2c.jpg"
+      },
+      {
+        "title": "Kurumsal seyahat ve uçak bileti yönetimi",
+        "text": "İş seyahatlerini verimli, kontrollü ve akıllı şekilde yönetin.",
+        "href": "/products/airviatech-enterprise",
+        "image": "/images/photos/vision.jpg"
+      },
+      {
+        "title": "Mobil seyahat ve uçak bileti uygulaması",
+        "text": "Her yerden, her zaman rezervasyon imkânı sunun.",
+        "href": "/products/airviatech-app",
+        "image": "/images/photos/mobile.jpg"
+      },
+      {
+        "title": "AirviaTech API — seyahat deneyiminizi güçlendirin",
+        "text": "Geliştiricilere özel esnek API yapımız sayesinde özelleştirilebilir rezervasyon akışları ve güçlü entegrasyonlarla size özel seyahat deneyimleri yaratın.",
+        "href": "/products/airviatech-api",
+        "wide": true
+      }
+    ],
+    "motto": "Yenilikçi – Güvenilir – Uzman"
+  },
+  "news": {
+    "eyebrow": "AirviaTech'ten haberler",
+    "title": "Havacılık ve seyahat teknolojisinde son gelişmeler",
+    "cta": "Tüm haberler"
+  }
+}

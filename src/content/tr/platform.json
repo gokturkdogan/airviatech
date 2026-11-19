@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "title": "Online Uçak Bileti Yazılımı",
+    "description": "Tüm havayollarını ve GDS sistemlerini tek bir platformda birleştiren yeni nesil biletleme sistemi ve akıllı biletleme altyapısı."
+  },
+  "hero": {
+    "eyebrow": "Seyahat teknolojisinde yeni çağ başladı",
+    "title": "Yeni nesil biletleme sistemi. Akıllı ve esnek biletleme altyapısı.",
+    "text": "AirviaTech, seyahat acenteleri ve tur operatörleri için özel olarak geliştirilmiş güçlü bir platformdur. İster IATA yetkiniz olsun ister olmasın, teknolojimiz tüm havayollarını ve GDS sistemlerini tek bir platformda birleştirerek hızlı, güvenli ve verimli rezervasyon işlemleri sunar."
+  },
+  "advantages": {
+    "eyebrow": "Daha fazla havayolu, daha akıllı çözümler",
+    "title": "Gelişmiş GDS ve doğrudan havayolu entegrasyonlarımızla şu avantajlara sahip olursunuz:",
+    "items": [
+      { "title": "{{airlines}} havayolu", "text": "Dünya genelindeki havayollarına tek platformdan erişim.", "figure": "Dish" },
+      { "title": "Kesintisiz GDS bağlantısı", "text": "Travelport, Sabre, Amadeus ve Sirena üzerinden sınırsız seçenek.", "figure": "Patch" },
+      { "title": "NDC, LCC ve doğrudan API", "text": "Daha geniş envanter için doğrudan havayolu NDC, API ve LCC entegrasyonları.", "figure": "Router" },
+      { "title": "Çoklu IATA ve acente", "text": "Küresel erişim için çoklu IATA ve çoklu acente desteği.", "figure": "Lockers" }
+    ]
+  },
+  "stats": ["yearsExperience", "dailyQueries", "launchedProjects"],
+  "onePlatform": {
+    "eyebrow": "Tüm olasılıklar tek noktada",
+    "title": "Müşterilerinizin sevdiği havayolları için kesintisiz biletleme.",
+    "text": "THY, AJet, Pegasus, SunExpress, Air France, KLM, Aegean, Emirates, Singapore Airlines ve daha birçok havayolu için kesintisiz biletleme hizmeti sunuyoruz. Tek ve entegre bir yapı ile tüm biletleme sürecinizi sadeleştiriyoruz."
+  },
+  "ecosystem": {
+    "eyebrow": "AirviaTech ekosistemi",
+    "title": "Güvenilir teknolojinin yeni adresi",
+    "subtitle": "Siz işinizi büyütün, biz teknolojiyi yönetelim",
+    "text": "Basit, güvenli ve yenilikçi çözümlerimiz sayesinde büyümeye odaklanırken müşterilerinize en iyi deneyimi sunabilirsiniz.",
+    "items": [
+      "Tüm GDS ve havayolu biletlerini tek bir arayüz üzerinden yönetin; maliyetleri düşürün, zamandan tasarruf edin.",
+      "Yerel ve global pazarlarda erişiminizi genişletin, satışlarınızı artırın.",
+      "Geniş uçuş seçenekleri ve en iyi fiyatlarla rekabet avantajı elde edin.",
+      "USD, EUR, GBP, TRY, RUB ve daha birçok para birimi ile ödeme kabul edin.",
+      "Uluslararası müşterileriniz için çok dilli biletleme desteği sunun."
+    ],
+    "outro": "Bugünden AirviaTech ile seyahatin geleceğini keşfedin.",
+    "image": "/images/ecosystem/map-2026.jpg"
+  }
+}

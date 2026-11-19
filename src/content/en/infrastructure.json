@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "title": "Our Infrastructure",
+    "description": "Top-level technology, proven performance: real-time processing, scalable architecture, security, advanced APIs and cloud-based solutions."
+  },
+  "hero": {
+    "eyebrow": "Aviate – Navigate – Communicate",
+    "title": "Top-level technology, proven performance",
+    "text": "AirviaTech is a state-of-the-art platform developed with years of expertise, bringing together all GDS and airline integrations under one roof. With its powerful infrastructure, superior performance and reliability, it transforms global airline ticketing processes into a seamless experience."
+  },
+  "pillars": {
+    "title": "Unmatched infrastructure for a seamless experience",
+    "items": [
+      { "title": "Comprehensive solutions", "text": "Complete and flexible ticketing solutions for both IATA and non-IATA travel agencies.", "stat": null },
+      { "title": "High traffic endurance", "text": "Handles {{dailyQueries}} queries per day effortlessly, ensuring uninterrupted performance even in high-demand environments.", "stat": "dailyQueries" },
+      { "title": "Reliable ticketing", "text": "With a daily capacity of {{dailyTickets}} ticket bookings at just one agency, our tested and optimized system maximizes operational efficiency.", "stat": "dailyTickets" }
+    ],
+    "tagline": "Experience the power, speed and reliability of AirviaTech."
+  },
+  "technology": {
+    "eyebrow": "Our technology",
+    "title": "Powerful, flexible and scalable infrastructure",
+    "text": "Equipped with the latest technology, AirviaTech ensures maximum performance and reliability in global reservation processes. The key advantages of our system:",
+    "items": [
+      {
+        "title": "Real-time data processing",
+        "points": ["Instant data updates and transaction tracking provide speed and reliability in reservation processes.", "Every stage of your operations is fully transparent and trackable."],
+        "figure": "Phosphor"
+      },
+      {
+        "title": "Scalable architecture",
+        "points": ["Dynamic system infrastructure adapts instantly to increasing transaction volumes.", "Delivers seamless and efficient processing even during peak traffic periods."],
+        "figure": "Terrain"
+      },
+      {
+        "title": "Security: protecting your data",
+        "points": ["Industry-standard encryption and data security protocols for complete protection.", "Continuously updated firewalls and unauthorized-access prevention keep your data secure at all times."],
+        "figure": "Vault"
+      },
+      {
+        "title": "Advanced API integrations",
+        "points": ["Flexible, developer-friendly API structure allows easy adaptation to different systems.", "Seamless connectivity with GDS and airline systems enables fast and efficient integration."],
+        "figure": "Plug"
+      },
+      {
+        "title": "Cloud-based solutions",
+        "points": ["Hosted on leading platforms like Amazon Web Services, ensuring high accessibility and uninterrupted operations.", "Robust data backup and load-balancing mechanisms keep your operations secure and available."],
+        "figure": "Cabinet"
+      }
+    ]
+  },
+  "closing": {
+    "title": "Unlock innovation, reliability and a powerful infrastructure with AirviaTech."
+  }
+}

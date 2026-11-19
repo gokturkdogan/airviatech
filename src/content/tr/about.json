@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "title": "Biz Kimiz",
+    "description": "AirviaTech, 20 yılı aşkın deneyimle geliştirdiği yenilikçi online uçak bileti yazılımlarıyla seyahat teknolojisinin geleceğini şekillendiriyor."
+  },
+  "hero": {
+    "eyebrow": "Yenilik Yaratın – Bağlantı Kurun – Güç Katın",
+    "title": "Seyahat teknolojisinin geleceğini yeniden tanımlıyoruz",
+    "text": "AirviaTech olarak yenilikçi ve güçlü çevrim içi uçak bileti yazılımları sunmaya kararlıyız — yüksek deneyime ve uzmanlığa sahip ekibimizle."
+  },
+  "story": {
+    "title": "Uçuş dağıtımının kokpitinde 20 yıl",
+    "paragraphs": [
+      "Yüksek deneyime ve uzmanlığa sahip ekibimizle, seyahat sektörüne özel olarak geliştirilmiş en güvenilir ve en ileri düzey yazılımları üretiyoruz.",
+      "Çevrim içi uçak bileti teknolojilerinde 20 yıllık deneyimimizle bugüne kadar {{projects}} sistemi başarıyla entegre ettik ve her gün {{dailyQueries}} uçuş sorgusunu işliyoruz. Sürekli gelişen altyapımız sayesinde sektördeki en iyi kullanıcı deneyimini sunuyoruz.",
+      "AirviaTech, hem çevrim içi hem de çevrim dışı çalışan seyahat acentelerini, toptancıları ve tur operatörlerini yeni nesil rezervasyon sistemleri ve biletleme çözümleriyle güçlendiriyor.",
+      "Daha geniş bir havayolu ağına erişin, daha akıllı çözümlerle tanışın ve kesintisiz bağlantının keyfini yaşayın — seyahatin geleceğini bugünden deneyimleyin."
+    ],
+    "image": "/images/photos/business-aircraft.jpg"
+  },
+  "stats": ["yearsExperience", "dailyQueries", "launchedProjects"],
+  "connectivity": {
+    "eyebrow": "Akıllı entegrasyonlarla seyahat deneyimini yeniden tanımlıyoruz",
+    "title": "Trendleri takip etmiyoruz, belirliyoruz.",
+    "text": "En son seyahat teknolojilerinin gücünü ve veri odaklı akıllı çözümleri kullanarak havayolları, seyahat satıcıları ve işletmelerin dijital çağda nasıl bağlandığını yeniden tanımlıyoruz. Misyonumuz net: uçuş dağıtımını herkes için daha akıllı, daha verimli ve daha kârlı hale getirmek."
+  },
+  "distribution": {
+    "eyebrow": "Yeni nesil uçuş içeriği ve dağıtım altyapısı",
+    "title": "Eski, katı ve modası geçmiş yazılımlar artık geride kaldı.",
+    "intro": "AirviaTech; seyahat acenteleri, tur operatörleri ve toptancılara kusursuz, doğrudan ve akıllı bağlantı altyapısıyla güç katıyor:",
+    "items": [
+      { "title": "Havacılık standartlarında güvenilirlik", "text": "Eşsiz sistem sürekliliği ve üstün altyapı istikrarı.", "figure": "Padlock" },
+      { "title": "Gerçek zamanlı fiyatlama ve dinamik envanter", "text": "Her zaman güncel, her zaman doğru.", "figure": "Phosphor" },
+      { "title": "Veri odaklı içgörüler", "text": "Gelir optimizasyonu ve müşteri etkileşiminde yol gösterir.", "figure": "Plot" },
+      { "title": "Ölçeklenebilir ve özelleştirilebilir çözümler", "text": "İşinizle birlikte büyümek üzere tasarlandı.", "figure": "Terrain" }
+    ],
+    "outro": "Geleneksel modellerin aksine, havayolları ile seyahat acenteleri arasındaki boşluğu kapatıyor; gerçek zamanlı, esnek ve kontrol edilebilir bir perakende deneyimi sunuyoruz."
+  },
+  "why": {
+    "title": "Neden AirviaTech?",
+    "items": [
+      { "title": "Karmaşıklığı basitleştiriyoruz", "text": "Akıllı platformumuz, havayolları ile seyahat satıcıları arasındaki engelleri ortadan kaldırarak uçuş rezervasyonunu sorunsuz hale getirir." },
+      { "title": "Geliri maksimuma çıkarıyoruz", "text": "NDC bağlantılarını optimize ederek havayollarının doğrudan satışlarını artırmasına, seyahat satıcılarının da yeni gelir kaynakları keşfetmesine yardımcı oluyoruz." },
+      { "title": "Müşteri deneyimini yükseltiyoruz", "text": "Kişiselleştirilmiş ücretler, ek hizmetler ve esnek rezervasyon sonrası yönetim — hepsi tek bir noktada." }
+    ]
+  },
+  "technology": {
+    "eyebrow": "Yeniliği harekete geçiren teknoloji",
+    "title": "Bu, sıradan bir NDC çözümü değil.",
+    "intro": "Kendimize ait yazılım altyapımız ve gelişmiş API'lerimiz, havayolu sistemleriyle sorunsuz entegrasyon sağlayarak daha hızlı yanıt süreleri, daha rekabetçi fiyatlar ve daha zengin içerikler sunar. AirviaTech ile seyahat acenteleri:",
+    "items": [
+      "Daha zengin ücret içeriğiyle genişletilmiş bir havayolu ağına erişir.",
+      "Akıllı rezervasyon akışlarıyla kesintisiz müşteri deneyimi sunar.",
+      "Rezervasyon sonrası tam destekle gelişmiş hizmet süreçleri sağlar."
+    ],
+    "outro": "Derin sektör tecrübesi ve yeni nesil zekâ ile inşa edilmiş, havayolu perakendeciliğinin geleceği."
+  },
+  "vision": {
+    "eyebrow": "Vizyonumuz",
+    "title": "Akıllı ve entegre bir seyahat ekosistemi",
+    "intro": "Seyahat dağıtımının kesintisiz, akıllı ve kişiselleştirilmiş olduğu bir geleceğe inanıyoruz. Vizyonumuz:",
+    "items": [
+      "Acenteleri daha akıllı rezervasyon yetkinlikleriyle güçlendirmek.",
+      "Havayollarının geleneksel dağıtım modellerinden özgürleşmesine yardımcı olmak.",
+      "Küresel seyahat için sınırları aşan, gerçek zamanlı bir ekosistem oluşturmak."
+    ],
+    "image": "/images/photos/vision.jpg"
+  },
+  "mission": {
+    "eyebrow": "Misyonumuz",
+    "title": "Havayolu perakendeciliğinde yeni bir çağ başlatmak",
+    "intro": "Uçak bileti rezervasyonunu daha akıllı, daha kârlı ve müşteri odaklı bir deneyime dönüştürmeye kararlıyız. Çözümlerimiz basit bir NDC bağlantısından ibaret değil:",
+    "items": [
+      "Tam entegre bir rezervasyon ve biletleme ekosistemi.",
+      "Akıllı fiyatlama ve veri odaklı karar destek araçları.",
+      "Sektörle birlikte gelişen çevik ve ölçeklenebilir bir altyapı."
+    ],
+    "image": "/images/photos/mission.jpg"
+  },
+  "join": {
+    "title": "Yeniliğe katılın: seyahat teknolojisinde devrim başlıyor",
+    "text": "Seyahatin geleceği sadece dijital değil; aynı zamanda akıllı, çevik ve birbirine bağlı. AirviaTech olarak bu geleceği bugünden gerçeğe dönüştürüyoruz. Bizimle iş birliği yapın, uçuş dağıtımında yeni bir çağı birlikte yaşayın."
+  }
+}

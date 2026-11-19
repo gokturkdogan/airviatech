@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Suppliers",
+    "description": "AirviaTech's global supply ecosystem: GDS, NDC, direct XML, OTA and charter suppliers unified behind one API."
+  },
+  "hero": {
+    "eyebrow": "Innovate – Connect – Empower",
+    "title": "A global supply ecosystem, powered by smart partnerships",
+    "text": "AirviaTech stands out in the flight reservation ecosystem through strategic partnerships, deep integrations and a growing network of trusted suppliers. Our unified platform enables streamlined access to the world's most essential travel content."
+  },
+  "stats": ["yearsExperience", "dailyQueries", "launchedProjects"],
+  "network": {
+    "eyebrow": "AirviaTech ecosystem",
+    "title": "Where technology meets trust",
+    "hint": "Drag to orbit · hover a node",
+    "center": "One API"
+  },
+  "categories": {
+    "gds": { "label": "GDS", "full": "Global Distribution System", "text": "The world's major distribution systems, fully integrated." },
+    "ndc": { "label": "NDC", "full": "New Distribution Capability", "text": "Direct, certified NDC connections with richer content and ancillaries." },
+    "xml": { "label": "XML", "full": "Direct connection", "text": "Direct airline and LCC APIs for broader inventory." },
+    "ota": { "label": "OTA", "full": "Online travel agency", "text": "Global supplier and OTA content partners." },
+    "charter": { "label": "Charter", "full": "Charter & block seat", "text": "Charter operators and block-seat inventory." }
+  },
+  "map": {
+    "title": "The AirviaTech ecosystem map",
+    "text": "Every integration, one standardized response."
+  }
+}

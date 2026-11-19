@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Contact",
+    "description": "Contact AirviaTech — offices in Istanbul, Antalya, Dubai and London. Send your query or request a callback."
+  },
+  "hero": {
+    "eyebrow": "Connect – Collaborate – Grow",
+    "title": "Let's talk about your next project",
+    "text": "Want to learn more about our solutions or start working with us? Fill out the form and a member of our team will get in touch shortly."
+  },
+  "info": {
+    "locations": "Office locations",
+    "email": "Email our team",
+    "hours": "Working hours",
+    "phone": "Call us",
+    "hq": "Headquarters",
+    "branches": "Branches",
+    "directions": "Get directions"
+  },
+  "form": {
+    "title": "Send your query or request a callback",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "company": "Company",
+    "topic": "I'm interested in",
+    "topics": ["Aggregator / API", "B2B Agent", "B2C E-Commerce", "Mobile APP", "Corporate travel", "AirviaGo Charter", "Partnership", "Other"],
+    "message": "How can we help?",
+    "consent": "I agree that AirviaTech may contact me about my request.",
+    "submit": "Send message",
+    "sending": "Sending…",
+    "success": "Thank you for your message. It has been sent — we'll be in touch shortly.",
+    "error": "There was an error trying to send your message. Please try again later.",
+    "required": "Please fill in the required fields."
+  }
+}

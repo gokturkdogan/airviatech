@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "siteName": "AirviaTech",
+    "titleTemplate": "%s — AirviaTech",
+    "defaultTitle": "AirviaTech — Tek API. Tüm Havayolları.",
+    "description": "AirviaTech; NDC, GDS, LCC, XML ve charter içeriklerini havayolları, OTA'lar, TMC'ler ve seyahat acenteleri için tek bir API altında birleştiren, IATA sertifikalı bir NDC aggregator'dır."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "items": [
+      {
+        "label": "Hakkımızda",
+        "href": "/about",
+        "children": [
+          {
+            "label": "Biz Kimiz",
+            "href": "/about",
+            "desc": "Hikayemiz, vizyonumuz ve misyonumuz"
+          },
+          {
+            "label": "Kariyer",
+            "href": "/about/career",
+            "desc": "Seyahat teknolojisinin geleceğini bizimle inşa edin"
+          }
+        ],
+        "feature": {
+          "image": "/images/photos/news-bg.jpg",
+          "title": "İstanbul'dan dünyaya",
+          "text": "Modern ve bağımsız bir platformun arkasında 20 yıllık havayolu dağıtım deneyimi.",
+          "cta": "Bizi tanıyın"
+        }
+      },
+      {
+        "label": "AirviaTech",
+        "href": "/airviatech",
+        "children": [
+          {
+            "label": "Platform",
+            "href": "/airviatech",
+            "desc": "Yeni nesil uçak bileti satış sistemi"
+          },
+          {
+            "label": "Özellikler",
+            "href": "/airviatech/features",
+            "desc": "Ücret tipleri, ek hizmetler ve acente araçları"
+          },
+          {
+            "label": "Altyapımız",
+            "href": "/airviatech/infrastructure",
+            "desc": "Bulut tabanlı, güvenli ve ölçeklenebilir"
+          }
+        ],
+        "feature": {
+          "image": "/images/photos/departures-board.jpg",
+          "title": "Tüm havayolları tek ekranda",
+          "text": "GDS, NDC ve LCC içeriklerini tek platformdan arayın, satın, yönetin.",
+          "cta": "Platformu keşfedin"
+        }
+      },
+      {
+        "label": "Ürünler",
+        "href": "/products",
+        "children": "products",
+        "feature": {
+          "image": "/images/photos/airport-aerial.png",
+          "title": "Tek API. Tüm havayolları.",
+          "text": "Acenteler, OTA'lar, kurumsal firmalar ve charter operatörleri için yedi ürün.",
+          "cta": "Tüm ürünler"
+        }
+      },
+      {
+        "label": "Tedarikçiler",
+        "href": "/suppliers"
+      },
+      {
+        "label": "Haberler",
+        "href": "/news"
+      }
+    ],
+    "contact": "İletişim",
+    "cta": "Bize ulaşın",
+    "menu": "Menü",
+    "close": "Kapat",
+    "language": "Dil",
+    "allProducts": "Tüm ürünler"
+  },
+  "ui": {
+    "readMore": "Devamını oku",
+    "viewDetails": "Detayları gör",
+    "learnMore": "Daha fazla bilgi",
+    "explore": "Keşfet",
+    "discover": "Keşfedin",
+    "backToNews": "Haberlere dön",
+    "backToProducts": "Tüm ürünler",
+    "relatedPosts": "Okumaya devam edin",
+    "featured": "Öne çıkan",
+    "published": "Yayınlanma",
+    "minRead": "dk okuma",
+    "scroll": "Kaydır",
+    "comingSoon": "Çok yakında",
+    "skipToContent": "İçeriğe geç",
+    "nextProduct": "Sonraki ürün",
+    "otherProducts": "Diğer ürünler",
+    "step": "Adım"
+  },
+  "stats": {
+    "yearsExperience": "Yıllık deneyim",
+    "annualQueries": "Yıllık ortalama sorgu",
+    "airlineIntegrations": "Havayolu entegrasyonu",
+    "dailyQueries": "Günlük uçuş arama sorgusu",
+    "launchedProjects": "Hayata geçen proje",
+    "airlineReach": "Erişilebilir havayolu",
+    "dailyTickets": "Acente başına günlük bilet",
+    "uptime": "Platform erişilebilirliği",
+    "units": {
+      "yr": "Yıl"
+    }
+  },
+  "cta": {
+    "eyebrow": "İletişime Geç – İş Birliği Yap – Değer Yarat",
+    "title": "Tüm havayollarına tek bir API ile bağlanmaya hazır mısınız?",
+    "text": "İşinizi bize anlatın; ekibimiz AirviaTech'in dağıtım altyapınıza nasıl uyum sağlayacağını göstersin.",
+    "primary": "Bize ulaşın",
+    "secondary": "Ürünleri keşfedin"
+  },
+  "newsletter": {
+    "title": "AirviaTech'ten haberiniz olsun!",
+    "text": "Güncellemeler, havacılık haberleri ve en yeni teknolojiler doğrudan e-posta kutunuza gelsin.",
+    "placeholder": "E-posta adresiniz",
+    "button": "Kayıt ol",
+    "sending": "Lütfen bekleyin…",
+    "success": "Teşekkürler! Haber listemize kaydoldunuz.",
+    "error": "Lütfen geçerli bir e-posta adresi girin."
+  },
+  "footer": {
+    "tagline": "Global seyahat çözümlerinde güvendiğiniz teknoloji ortağınız.",
+    "productsTitle": "Ürünler",
+    "pagesTitle": "Sayfalar",
+    "companyTitle": "Şirket",
+    "pages": [
+      {
+        "label": "AirviaTech",
+        "href": "/airviatech"
+      },
+      {
+        "label": "Özellikler",
+        "href": "/airviatech/features"
+      },
+      {
+        "label": "Altyapımız",
+        "href": "/airviatech/infrastructure"
+      },
+      {
+        "label": "Ürünler",
+        "href": "/products"
+      },
+      {
+        "label": "Tedarikçiler",
+        "href": "/suppliers"
+      }
+    ],
+    "company": [
+      {
+        "label": "Biz Kimiz",
+        "href": "/about"
+      },
+      {
+        "label": "Kariyer",
+        "href": "/about/career"
+      },
+      {
+        "label": "Haberler",
+        "href": "/news"
+      },
+      {
+        "label": "İletişim",
+        "href": "/contact"
+      }
+    ],
+    "visitUs": "Ziyaret edin",
+    "phoneUs": "Bizi arayın",
+    "emailUs": "E-posta",
+    "hq": "Merkez ofis",
+    "branches": "İrtibat ofisleri",
+    "hours": "Hafta içi: 09:00 – 18:00",
+    "rights": "Tüm hakları saklıdır.",
+    "backToTop": "Yukarı dön",
+    "certified": "Sertifikalı ve güvenilir",
+    "board": {
+      "title": "Kalkışlar",
+      "subtitle": "Sıradaki durağınız neresi olsun?",
+      "flight": "Uçuş",
+      "destination": "Varış",
+      "gate": "Kapı",
+      "time": "Saat",
+      "status": "Durum",
+      "local": "İstanbul yerel saati",
+      "statuses": [
+        "Zamanında",
+        "Biniş",
+        "Açık",
+        "Zamanında",
+        "Biniş",
+        "Son çağrı"
+      ],
+      "runway": "Kalkışa hazır"
+    }
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Bu rota uçuş haritamızda yok.",
+    "text": "Aradığınız sayfa taşınmış ya da hiç var olmamış olabilir.",
+    "cta": "Ana sayfaya dön"
+  }
+}
